@@ -1,0 +1,758 @@
+Names,Age,Gender,Blood Type,Medical Conditions,Allergies,Blood Pressure,Height (cm),Weight (kg),Contact Number,Country,State,District,Location,Pincode,Latitude,Longitude,Recency (months),Frequency (times),Monetary (c.c. blood),Time (months)
+John Smith,20,Male,O+,Hypertension,Pollen,120/80,175,70,1234567890,India,Assam,Tinsukia,Adarshgaon,786174,27.6133,95.1425,2,50,12500,98
+Emma Johnson,25,Female,A+,Diabetes,Peanuts,130/85,160,65,1987654321,India,Assam,Tinsukia,Agbandha Bengali gaon,786187,27.5847,95.2436,0,13,3250,28
+Michael Williams,32,Male,B+,No,Dust mites,110/70,180,80,1122334455,India,Assam,Tinsukia,Alubari,786181,27.5472,95.3279,1,16,4000,35
+Sophia Brown,45,Female,AB+,No,Shellfish,140/90,165,55,1555666777,India,Assam,Tinsukia,Amarpur,786157,27.4961,95.3842,2,20,5000,45
+James Jones,37,Male,O-,No,Cat dander,125/82,170,75,1444778899,India,Assam,Tinsukia,Amguri,786160,27.4428,95.4104,1,24,6000,77
+Olivia Davis,49,Female,A-,No,Penicillin,115/75,172,68,1666777888,India,Assam,Tinsukia,Aroimuria,786154,27.5029,95.2995,4,4,1000,4
+William Miller,22,Male,B-,Anemia,No,135/88,168,72,1888777666,India,Assam,Tinsukia,Arunodaya,786160,27.5254,95.4398,2,7,1750,14
+Ava Wilson,29,Female,AB-,No,Pollen,122/81,163,69,1999888777,India,Assam,Tinsukia,Ashok Nagar,786170,27.4886,95.2812,1,12,3000,35
+Alexander Taylor,35,Male,O+,Hypothyroidism,No,128/84,176,76,1223344556,India,Assam,Sonitpur,Cherelia,784167,26.8698,92.9685,2,9,2250,22
+Mia Martinez,42,Female,A+,No,Dogs,118/79,171,74,1334455667,India,Assam,Sonitpur,Chitalmari,784110,26.9015,92.8539,5,46,11500,98
+Daniel Anderson,20,Male,B+,Diabetes,No,132/87,158,63,1445566778,India,Assam,Sonitpur,Da Besseria,784150,26.9204,92.8137,4,23,5750,58
+Charlotte Garcia,26,Female,AB+,No,Mold,112/73,183,82,1556677889,India,Assam,Sonitpur,Da Parbatia,784150,26.8812,92.7753,0,3,750,4
+Matthew Hernandez,31,Male,O-,No,No,138/91,167,71,1667788990,India,Assam,Sonitpur,Daflagarh,784171,26.9301,92.7668,2,10,2500,28
+Amelia Lopez,39,Female,A-,Hypertension,Pollen,126/83,174,77,1778899001,India,Assam,Sonitpur,Fatasimalugaon,784117,26.8625,92.8282,1,13,3250,47
+David Gonzalez,44,Male,B-,Hyperlipidemia,No,117/76,179,79,1889900112,India,Assam,Sonitpur,Fulaguri,784504,26.8273,92.7874,2,6,1500,15
+Emily Perez,21,Female,AB-,No,No,129/85,165,68,1990011223,India,Assam,Sonitpur,Gabharu,784153,26.8764,92.7855,2,5,1250,11
+Joseph Moore,28,Male,O+,No,Pollen,134/89,161,67,1001122334,India,Tamil nadu,Chennai,Purasawalkam,600082,13.0772,80.2656,2,14,3500,48
+Madison Martin,33,Female,A+,Migraine,Grass,121/79,173,73,1112233445,India,Tamil nadu,Chennai,Perambur,600082,13.1305,80.2317,2,15,3750,49
+Andrew Jackson,40,Male,B+,Depression,Tree nuts,137/90,166,70,1223344556,India,Tamil nadu,Chennai,Egmore ,600031,13.0711,80.2143,2,6,1500,15
+Harper Thompson,45,Female,AB+,No,Dust mites,123/81,169,72,1334455667,India,Tamil nadu,Chennai,Nungambakkam,600031,13.0989,80.2512,2,3,750,4
+Christopher White,24,Male,O-,Anxiety,No,131/86,164,69,1445566778,India,Tamil nadu,Chennai,Ambattur,600101,13.1148,80.1643,2,3,750,4
+Abigail Adams,27,Female,A-,Hypertension,Mold,119/78,177,75,1556677889,India,Tamil nadu,Chennai,Chennai,600020,13.0809,80.2706,4,11,2750,28
+Ethan Harris,34,Male,B-,No,Pollen,136/89,162,66,1667788990,India,Tamil nadu,Chennai,Purasawalkam,600082,13.1319,80.2354,2,6,1500,16
+Elizabeth Lewis,38,Female,AB-,No,Peanuts,124/82,175,74,1778899001,India,Tamil nadu,Chennai,Perambur,600082,13.1267,80.2312,2,6,1500,16
+Ryan Clark,46,Male,O+,No,No,116/77,180,76,1889900112,India,Tamil nadu,Chennai,Egmore ,600031,13.0804,80.2492,9,9,2250,16
+Ella Rodriguez,25,Female,A+,No,No,127/84,168,70,1990011223,India,Tamil nadu,Chennai,Nungambakkam,600031,13.0628,80.244,4,14,3500,40
+Nicholas Walker,32,Male,B+,No,No,133/88,163,68,1001122334,India,Tamil nadu,Chennai,Ambattur,600101,13.1123,80.1597,4,6,1500,14
+Sofia Hall,36,Female,AB+,Hypertension,Pollen,120/79,176,72,1112233445,India,Tamil nadu,Chennai,Chennai,600020,13.0836,80.27,4,12,3000,34
+Tyler Young,43,Male,O-,Hyperlipidemia,Pollen,138/91,170,77,1223344556,India,Tamil nadu,Chennai,Avadi,600054,13.1239,80.0956,4,5,1250,11
+Grace Allen,50,Female,A-,Anemia,Pollen,122/80,181,80,1334455667,India,Tamil nadu,Ariyalur,Sendurai,621714,11.1423,79.0745,4,8,2000,21
+Nathan King,47,Male,B-,No,Shellfish,130/86,166,70,1445566778,India,Tamil nadu,Ariyalur,Sendurai,621714,11.1556,79.0642,1,14,3500,58
+Avery Scott,51,Female,AB-,No,No,118/78,172,75,1556677889,India,Tamil nadu,Ariyalur,Sendurai,621714,11.1278,79.0843,4,10,2500,28
+Evelyn Green,52,Female,O+,Diabetes,Cat dander,135/89,159,64,1667788990,India,Tamil nadu,Ariyalur,Sendurai,621719,11.1543,79.0951,4,10,2500,28
+Samuel Baker,53,Male,A+,Hypertension,No,123/81,170,73,1778899001,India,Tamil nadu,Ariyalur,Sendurai,621709,11.1365,79.1097,4,9,2250,26
+Scarlett Adams,54,Female,B+,Asthma,Penicillin,131/87,165,71,1889900112,India,Tamil nadu,Ariyalur,Lalgudi,621715,10.7326,78.8323,2,16,4000,64
+Dylan Nelson,55,Male,AB+,Arthritis,No,119/79,178,78,1990011223,India,Tamil nadu,Ariyalur,Lalgudi,621715,10.7272,78.8464,2,8,2000,28
+Chloe Carter,56,Female,O-,Depression,Pollen,136/90,164,70,1001122334,India,Tamil nadu,Ariyalur,Lalgudi,621218,10.7379,78.8531,2,12,3000,47
+Jonathan Turner,57,Male,A-,No,No,124/82,174,76,1112233445,India,Tamil nadu,Ariyalur,Lalgudi,621715,10.7355,78.8382,4,6,1500,16
+Lily Mitchell,58,Female,B-,Hypertension,Dogs,117/77,179,73,1223344556,India,Tamil nadu,Ariyalur,Lalgudi,621851,10.7078,78.8049,2,14,3500,57
+Benjamin Hill,59,Male,AB-,Diabetes,No,125/83,169,72,1334455667,India,Tamil nadu,Ariyalur,Lalgudi,621851,10.7013,78.8224,4,7,1750,22
+Aria Roberts,60,Female,O+,No,Mold,137/91,162,67,1445566778,India,Tamil nadu,Ariyalur,Lalgudi,621218,10.735,78.8358,2,13,3250,53
+Brandon Phillips,19,Male,A+,Hyperlipidemia,No,126/84,167,70,1556677889,India,Tamil nadu,Ariyalur,Lalgudi,621851,10.7188,78.8039,2,5,1250,16
+Zoe Murphy,23,Female,B+,Anemia,Pollen,118/78,180,74,1667788990,India,Tamil nadu,Chennai,Tondaripet,600003,13.1153,80.2879,2,5,1250,16
+Gabriel Evans,30,Male,AB+,No,No,134/88,163,68,1778899001,India,Tamil nadu,Chennai,Tondiarpet,600003,13.1247,80.2826,2,5,1250,16
+Hannah Torres,41,Female,O-,Hypothyroidism,No,121/80,177,75,1889900112,India,Tamil nadu,Chennai,Tondiarpet,600003,13.1285,80.2871,4,20,5000,69
+Anthony Reed,48,Male,A-,Asthma,Pollen,129/86,164,70,1990011223,India,Tamil nadu,Chennai,Avadi,600054,13.1239,80.0956,4,9,2250,28
+Victoria Bailey,36,Female,B-,Arthritis,Grass,116/76,172,73,1001122334,India,Tamil nadu,Chennai,Avadi,600054,13.1243,80.1031,2,9,2250,36
+Christian Reed,26,Male,AB-,No,Tree nuts,133/89,160,65,1112233445,India,Tamil nadu,Chennai,Avadi,600054,13.1226,80.1089,2,2,500,2
+Natalie Rivera,21,Female,O+,Hypertension,Dust mites,120/79,175,71,1223344556,India,Andhra Pradesh,West Godavari,A.Gopavaram,534197,16.9301,81.5426,2,2,500,2
+Jackson Long,55,Male,A+,Diabetes,No,138/91,168,76,1334455667,India,Andhra Pradesh,West Godavari,A.Polavaram,534456,17.2138,81.5109,2,2,500,2
+Addison Cooper,42,Female,B+,No,Mold,127/84,171,75,1445566778,India,Andhra Pradesh,West Godavari,Apmc,534426,17.0726,81.5103,2,11,2750,46
+Joshua Richardson,28,Male,AB+,Hyperlipidemia,Pollen,115/76,178,72,1556677889,India,Andhra Pradesh,West Godavari,Abbiraju Palem,534266,17.0364,81.4571,2,11,2750,46
+Samantha Morgan,30,Female,O-,No,Peanuts,132/87,166,68,1667788990,India,Andhra Pradesh,West Godavari,Adamilli,534449,17.1997,81.4124,2,6,1500,22
+Dylan Coleman,38,Male,A-,Depression,No,119/78,179,74,1778899001,India,Andhra Pradesh,West Godavari,Adavikolanu,534198,17.0358,81.4396,2,12,3000,52
+Layla Peterson,22,Female,B-,No,No,136/90,163,70,1889900112,India,Andhra Pradesh,West Godavari,Adavipalem,534260,17.0665,81.5138,4,5,1250,14
+Logan Howard,52,Male,AB-,Anxiety,No,124/82,173,77,1990011223,India,Andhra Pradesh,West Godavari,Agadalalanka,534427,17.0913,81.4886,4,19,4750,69
+Anna Gray,46,Female,O+,Hypertension,No,117/77,181,75,1001122334,India,Andhra Pradesh,West Godavari,Agarru,534260,17.0402,81.4393,4,8,2000,26
+Isaac Cox,50,Male,A+,Diabetes,Pollen,135/89,165,69,1112233445,India,Andhra Pradesh,West Godavari,Agarthipalem,534260,18.1669,83.3312,2,7,1750,28
+Sophie James,33,Female,B+,No,Pollen,122/81,176,74,1223344556,India,Andhra Pradesh,Vizianagaram,A T agraharam,535218,18.1411,83.1998,2,16,4000,81
+Christopher Ward,41,Male,AB+,Hyperlipidemia,Shellfish,130/86,162,68,1334455667,India,Andhra Pradesh,Vizianagaram,A.Venkampeta,535547,18.1354,83.2331,3,6,1500,21
+Ariana Flores,44,Female,O-,Anemia,No,118/78,173,70,1445566778,India,Andhra Pradesh,Vizianagaram,Addapuseela,535501,18.0851,83.2132,2,7,1750,29
+Andrew Bell,53,Male,A-,No,Cat dander,137/90,167,75,1556677889,India,Andhra Pradesh,Vizianagaram,Ainada,535005,18.14,83.2301,2,8,2000,35
+Mila Bennett,25,Female,B-,Hypothyroidism,No,125/83,170,73,1667788990,India,Andhra Pradesh,Vizianagaram,Ajjada,535546,18.1083,83.226,2,10,2500,49
+Nicholas Jenkins,24,Male,AB-,Asthma,Penicillin,116/76,180,71,1778899001,India,Andhra Pradesh,Vizianagaram,Akkivaram,535216,18.1296,83.2578,4,5,1250,16
+Claire Price,39,Female,O+,Arthritis,No,134/88,164,68,1889900112,India,Andhra Pradesh,Vizianagaram,Akulakatta,535124,18.1365,83.2415,2,3,750,9
+William Butler,20,Male,A+,No,Pollen,121/80,178,75,1990011223,India,Andhra Pradesh,Vizianagaram,Alajangi,535573,18.1258,83.2224,3,16,4000,74
+Eleanor Powell,48,Female,B+,Hypertension,No,129/85,166,72,1001122334,India,Andhra Pradesh,Vizianagaram,Alamanda R s,535240,18.2325,83.6581,2,4,1000,14
+Michael Ross,35,Male,AB+,Diabetes,Dogs,137/91,161,70,1112233445,India,Andhra Pradesh,Vizianagaram,Alamanda Sandy,535240,18.2267,83.6382,0,2,500,4
+Skylar Rogers,37,Female,O-,No,No,126/84,168,74,1223344556,India,Andhra Pradesh,Vizianagaram,Alladapalem,535204,18.2074,83.6615,4,7,1750,25
+Josephine Kelly,45,Female,A-,Hyperlipidemia,Mold,119/79,174,75,1334455667,India,Andhra Pradesh,Vizianagaram,Alugolu,535218,18.2278,83.6773,1,9,2250,51
+Lincoln Diaz,49,Male,B-,Asthma,No,132/87,175,77,1445566778,India,Andhra Pradesh,Vizianagaram,Alugubilli,535250,18.2346,83.6841,2,4,1000,16
+Aubrey Foster,40,Female,AB-,Arthritis,Pollen,122/80,181,80,1334455667,India,Andhra Pradesh,Visakhapatnam,Gadirai,531027,17.6026,82.7661,2,4,1000,16
+Carter Coleman,29,Male,O+,Anemia,No,130/86,166,70,1445566778,India,Andhra Pradesh,Visakhapatnam,Gaduthuru,531029,17.5889,82.8084,4,17,4250,71
+Bella Simmons,34,Female,A+,No,No,118/78,172,75,1556677889,India,Andhra Pradesh,Visakhapatnam,Gagaba,531151,17.6513,82.855,2,2,500,4
+David Brooks,31,Male,B+,Hypothyroidism,Pollen,135/89,159,64,1667788990,India,Andhra Pradesh,Visakhapatnam,Gajuwaka,530026,17.7225,83.2241,2,2,500,4
+Violet Wood,51,Female,AB+,No,Grass,123/81,170,73,1778899001,India,Andhra Pradesh,Visakhapatnam,Galaganda,531077,17.7991,83.1773,2,2,500,4
+John Parker,56,Male,O-,Diabetes,Tree nuts,131/87,165,71,1889900112,India,Andhra Pradesh,Visakhapatnam,Galikonda,531133,17.5922,83.0728,2,4,1000,16
+Zoey Watson,58,Female,A-,No,Dust mites,119/79,178,78,1990011223,India,Andhra Pradesh,Visakhapatnam,Gadirai,531027,17.6026,82.7661,2,2,500,4
+Matthew Murphy,43,Male,B-,No,No,136/90,164,70,1001122334,India,Andhra Pradesh,Visakhapatnam,Gaduthuru,531029,17.5889,82.8084,2,2,500,4
+Nora Russell,27,Female,AB-,Hypertension,Mold,124/82,174,76,1112233445,India,Andhra Pradesh,Visakhapatnam,Gagaba,531151,17.6513,82.855,2,2,500,4
+Joshua Butler,57,Male,O+,Hyperlipidemia,Pollen,117/77,179,73,1223344556,India,Andhra Pradesh,Visakhapatnam,Gajuwaka,530026,17.7225,83.2241,4,6,1500,23
+Eva Alexander,47,Female,A+,No,Peanuts,125/83,169,72,1334455667,India,Andhra Pradesh,Visakhapatnam,Galaganda,531077,17.7991,83.1773,2,4,1000,16
+James Watson,54,Male,B+,Migraine,No,137/91,162,67,1445566778,India,Andhra Pradesh,Visakhapatnam,Galikonda,531133,17.5922,83.0728,2,4,1000,16
+Hazel Hughes,59,Female,AB+,Depression,No,126/84,167,70,1556677889,India,Tamil nadu,Chennai,Purasawalkam,600082,13.0765,80.2704,2,4,1000,16
+Jacob Perry,17,Male,O-,No,No,118/78,180,74,1667788990,India,Tamil nadu,Chennai,Perambur,600082,13.0945,80.2755,2,6,1500,28
+Leah Cook,18,Female,A-,Anxiety,Pollen,134/88,163,68,1778899001,India,Tamil nadu,Chennai,Egmore ,600031,13.0622,80.2838,2,6,1500,28
+Jonathan Diaz,19,Male,B-,Hypertension,Pollen,121/80,177,75,1889900112,India,Tamil nadu,Chennai,Nungambakkam,600031,13.0802,80.2643,4,2,500,4
+Audrey Nelson,20,Female,AB-,No,Pollen,129/86,164,70,1990011223,India,Tamil nadu,Chennai,Ambattur,600101,13.0943,80.2814,4,2,500,4
+Owen Morris,21,Male,O+,Diabetes,Shellfish,116/76,172,73,1001122334,India,Tamil nadu,Chennai,Chennai,600020,13.0626,80.2851,4,2,500,4
+Maya Stewart,22,Female,A+,Asthma,Shellfish,133/89,160,65,1112233445,India,Tamil nadu,Chennai,Purasawalkam,600082,11.4659,78.1563,2,7,1750,35
+Samuel Ramirez,23,Male,B+,Arthritis,Cat dander,120/79,175,71,1223344556,India,Tamil nadu,Chennai,Perambur,600082,11.4604,78.1568,4,2,500,4
+Stella Griffin,24,Female,AB+,No,No,138/91,168,76,1334455667,India,Tamil nadu,Chennai,Egmore ,600031,11.4786,78.1474,4,2,500,4
+Daniel Bennett,25,Male,O-,No,No,127/84,171,75,1445566778,India,Tamil nadu,Chennai,Nungambakkam,600031,11.4702,78.1523,4,2,500,4
+Paisley Torres,26,Female,A-,No,No,115/76,178,72,1556677889,India,Tamil nadu,Chennai,Ambattur,600101,11.4702,78.1523,4,2,500,4
+William Perry,27,Male,B-,No,No,132/87,166,68,1667788990,India,Tamil nadu,Chennai,Chennai,600020,11.4729,78.1521,12,11,2750,23
+Isabelle Henderson,28,Female,AB-,No,No,119/78,179,74,1778899001,India,Tamil nadu,Chennai,Avadi,600054,11.4729,78.1521,4,7,1750,28
+Christopher Ward,29,Female,O+,No,No,136/90,163,70,1889900112,India,Tamil nadu,Ariyalur,Sendurai,621714,11.4729,78.1521,3,17,4250,86
+Brianna Foster,30,Male,A+,Diabetes,No,124/82,173,77,1990011223,India,Tamil nadu,Ariyalur,Sendurai,621714,11.4741,78.1521,4,9,2250,38
+Grayson Simmons,31,Female,B+,Hypertension,No,117/77,181,75,1001122334,India,Tamil nadu,Ariyalur,Sendurai,621714,11.2652,77.8022,4,4,1000,14
+Caroline Jenkins,32,Male,AB+,Asthma,No,135/89,165,69,1112233445,India,Tamil nadu,Ariyalur,Sendurai,621719,11.2584,77.8041,5,7,1750,26
+Julian Richardson,33,Female,O-,Arthritis,No,122/81,176,74,1223344556,India,Tamil nadu,Ariyalur,Sendurai,621709,11.2612,77.8043,4,8,2000,34
+Kylie Henderson,34,Male,A-,Depression,No,130/86,162,68,1334455667,India,Tamil nadu,Ariyalur,Lalgudi,621715,11.2618,77.8069,2,13,3250,76
+Michael Martin,35,Female,B-,No,No,118/78,173,70,1445566778,India,Tamil nadu,Ariyalur,Lalgudi,621715,11.2685,77.806,4,9,2250,40
+Hannah Hill,36,Male,AB-,No,No,137/90,167,75,1556677889,India,Tamil nadu,Ariyalur,Lalgudi,621218,11.3296,78.8507,2,5,1250,26
+Adam Bryant,37,Female,O+,No,No,125/83,170,73,1667788990,India,Tamil nadu,Ariyalur,Lalgudi,621715,11.3338,78.8652,2,5,1250,26
+Nova Myers,38,Male,A+,No,No,116/76,180,71,1778899001,India,Tamil nadu,Ariyalur,Lalgudi,621851,11.3314,78.8403,6,17,4250,70
+Anthony Sullivan,39,Female,B+,No,No,134/88,164,68,1889900112,India,Tamil nadu,Ariyalur,Lalgudi,621851,11.3357,78.8432,0,8,2000,59
+Willow Alvarez,40,Male,AB+,No,No,121/80,178,75,1990011223,India,Tamil nadu,Ariyalur,Lalgudi,621218,11.3296,78.8507,3,5,1250,26
+Thomas Green,41,Female,O-,No,No,129/85,166,72,1001122334,India,Tamil nadu,Ariyalur,Lalgudi,621851,11.3338,78.8652,2,3,750,14
+Emilia Washington,42,Male,A-,No,No,137/91,161,70,1112233445,India,Tamil nadu,Chennai,Tondaripet,600003,13.0925,80.2898,2,10,2500,64
+Elijah Foster,43,Female,B-,No,No,126/84,168,74,1223344556,India,Tamil nadu,Chennai,Tondiarpet,600003,13.1162,80.2769,4,5,1250,23
+Ruby Stewart,44,Male,AB-,No,No,119/79,174,75,1334455667,India,Tamil nadu,Chennai,Tondiarpet,600003,13.1193,80.2758,4,9,2250,46
+Nicholas Baker,45,Female,O+,No,No,132/87,175,77,1445566778,India,Tamil nadu,Chennai,Avadi,600054,13.1239,80.0956,4,5,1250,23
+Clara Morgan,46,Male,A+,Hypertension,No,122/79,181,80,1334455666,India,Tamil nadu,Chennai,Avadi,600054,13.1179,80.0927,4,8,2000,40
+Jackson Fisher,47,Female,B+,Diabetes,Pollen,122/80,181,80,1334455667,India,Tamil nadu,Chennai,Avadi,600054,13.1111,80.0915,2,12,3000,82
+Lydia Reed,48,Male,AB+,No,Pollen,130/86,166,70,1445566778,India,Tamil nadu,Namakkal,Rasipuram,637403,11.4466,78.1444,11,24,6000,64
+Christian Morris,49,Female,O-,Hyperlipidemia,Pollen,118/78,172,75,1556677889,India,Tamil nadu,Namakkal,Rasipuram,637403,11.4475,78.1472,2,7,1750,46
+Savannah Mitchell,50,Male,A-,No,Shellfish,135/89,159,64,1667788990,India,Tamil nadu,Namakkal,Rasipuram,637403,11.4475,78.1472,4,11,2750,61
+David Bailey,51,Female,B-,Depression,No,123/81,170,73,1778899001,India,Tamil nadu,Namakkal,Rasipuram,637403,11.4475,78.1472,1,7,1750,57
+Aurora Griffin,52,Male,AB-,No,Cat dander,131/87,165,71,1889900112,India,Tamil nadu,Namakkal,Rasipuram,637503,11.4612,78.1507,2,11,2750,79
+Joseph Garcia,53,Female,O+,Anxiety,No,119/79,178,78,1990011223,India,Tamil nadu,Namakkal,Rasipuram,637503,11.4612,78.1507,2,3,750,16
+Adeline Carter,54,Male,A+,Hypertension,Penicillin,136/90,164,70,1001122334,India,Tamil nadu,Namakkal,Rasipuram,637503,11.4612,78.1507,4,5,1250,26
+Lucas Turner,55,Female,B+,Diabetes,No,124/82,174,76,1112233445,India,Tamil nadu,Namakkal,Rasipuram,637503,11.4612,78.1507,2,6,1500,41
+Ellie Kelly,56,Male,AB+,No,Pollen,117/77,179,73,1223344556,India,Tamil nadu,Namakkal,Tiruchengodu,637210,11.2757,77.9257,2,5,1250,33
+Caleb Mitchell,57,Female,O-,Hyperlipidemia,No,125/83,169,72,1334455667,India,Tamil nadu,Namakkal,Tiruchengodu,637210,11.2813,77.928,2,4,1000,26
+Madeline Turner,58,Male,A-,Anemia,Dogs,137/91,162,67,1445566778,India,Tamil nadu,Namakkal,Tiruchengodu,637210,11.2778,77.9213,2,5,1250,34
+Sebastian Bell,59,Female,B-,No,No,126/84,167,70,1556677889,India,Tamil nadu,Namakkal,Tiruchengodu,637210,11.2798,77.9234,4,8,2000,46
+Penelope White,60,Male,AB-,Hypothyroidism,Mold,118/78,180,74,1667788990,India,Tamil nadu,Namakkal,Tiruchengodu,637210,11.2767,77.9225,2,4,1000,26
+Hunter Jackson,18,Female,O+,Asthma,No,134/88,163,68,1778899001,India,Gujarat,Vadodara,Abhol,391421,22.2901,73.0419,4,8,2000,48
+Aaliyah Parker,17,Male,A+,Arthritis,Pollen,121/80,177,75,1889900112,India,Gujarat,Vadodara,Achisara,391111,22.3313,73.1925,2,2,500,10
+Gabriel Ross,59,Female,B+,No,No,129/86,164,70,1990011223,India,Gujarat,Vadodara,Adiran,391510,22.4059,73.0055,4,5,1250,28
+Elena Rodriguez,20,Male,AB+,Hypertension,No,116/76,172,73,1001122334,India,Gujarat,Vadodara,Agar,391150,22.4996,73.0766,2,12,3000,95
+Evan Adams,21,Female,O-,Diabetes,Pollen,133/89,160,65,1112233445,India,Gujarat,Vadodara,Ajod,391740,22.3038,73.132,2,2,500,10
+Aria Thompson,23,Male,A-,No,Grass,120/79,175,71,1223344556,India,Gujarat,Vadodara,Ajwa Compound,391510,20.1768,73.2088,4,6,1500,35
+Colton Phillips,25,Female,B-,Hyperlipidemia,Tree nuts,138/91,168,76,1334455667,India,Gujarat,Vadodara,Ajwa Road,390019,20.2054,73.22,2,11,2750,88
+Camila Brown,26,Male,AB-,Asthma,Dust mites,127/84,171,75,1445566778,India,Gujarat,Vadodara,Akakheda,391145,20.1838,73.1898,2,3,750,19
+Landon Clark,27,Female,O+,Arthritis,No,115/76,178,72,1556677889,India,Gujarat,Vadodara,Akona,391150,20.1817,73.1947,2,5,1250,37
+Luna Jenkins,29,Male,A+,Anemia,Mold,132/87,166,68,1667788990,India,Gujarat,Vadodara,Akota,390020,20.1804,73.1954,2,12,3000,98
+Isaiah Allen,30,Female,B+,No,Pollen,119/78,179,74,1778899001,India,Gujarat,Vadodara,Alhadpura,391135,20.1965,73.1783,9,5,1250,19
+Ariana Hernandez,31,Male,AB+,Hypothyroidism,Peanuts,136/90,163,70,1889900112,India,Gujarat,The Dangs,Pandva,394710,20.1967,73.1801,2,2,500,11
+Jaxon Lee,32,Female,O-,No,No,124/82,173,77,1990011223,India,Gujarat,The Dangs,Pimpri,394715,20.2011,73.1799,2,9,2250,74
+Isabel Perry,33,Female,A-,Diabetes,No,117/77,181,75,1001122334,India,Gujarat,The Dangs,Piplaidevi,394716,20.1971,73.1785,5,14,3500,86
+Michael Harris,34,Male,B-,No,No,135/89,165,69,1112233445,India,Gujarat,The Dangs,Rambhas,394720,20.1852,73.1911,4,3,750,16
+Gianna Martinez,35,Female,AB-,No,No,122/81,176,74,1223344556,India,Gujarat,The Dangs,Sakarpatal,394720,20.1983,73.1815,4,3,750,16
+Lincoln Davis,36,Male,O+,No,No,130/86,162,68,1334455667,India,Gujarat,The Dangs,Samgahan,394720,20.2024,73.1805,4,2,500,9
+Eleanor Nelson,37,Female,A+,No,No,118/78,173,70,1445566778,India,Gujarat,The Dangs,Saputara,394720,20.1978,73.1762,4,3,750,16
+Connor King,38,Male,B+,No,No,137/90,167,75,1556677889,India,Gujarat,The Dangs,Singana,394716,20.1979,73.1787,6,3,750,14
+Mila Lewis,39,Female,AB+,No,No,125/83,170,73,1667788990,India,Gujarat,The Dangs,Subir,394716,20.1941,73.1809,2,2,500,11
+Eli Roberts,40,Male,O-,Depression,Cat dander,116/76,180,71,1778899001,India,Gujarat,The Dangs,Tanklipada,394716,20.1979,73.1798,2,2,500,11
+Aurora Turner,41,Female,A-,No,No,134/88,164,68,1889900112,India,Gujarat,The Dangs,Vasurna,394720,20.1917,73.1839,2,2,500,11
+Levi Garcia,42,Male,B-,Anxiety,Penicillin,121/80,178,75,1990011223,India,Gujarat,The Dangs,Waghai,394720,20.2045,73.1807,2,7,1750,58
+Zoe Wright,43,Female,AB-,Hypertension,No,129/85,166,72,1001122334,India,Gujarat,The Dangs,Zaridungarda,394720,20.1978,73.1809,4,6,1500,39
+Cameron Carter,44,Male,O+,No,Pollen,137/91,161,70,1112233445,India,Gujarat,The Dangs,Pandva,394710,20.1959,73.1841,4,11,2750,78
+Brooklyn Richardson,45,Female,A+,Diabetes,No,126/84,168,74,1223344556,India,Gujarat,The Dangs,Pimpri,394715,20.1964,73.1832,2,1,250,2
+Dominic Reed,46,Male,B+,Asthma,Dogs,119/79,174,75,1334455667,India,Gujarat,The Dangs,Piplaidevi,394716,20.1996,73.1824,2,1,250,2
+Sofia Hill,47,Female,AB+,Arthritis,No,132/87,175,77,1445566778,India,Gujarat,The Dangs,Rambhas,394720,20.2001,73.1829,2,1,250,2
+Nolan Thomas,48,Male,O-,No,Mold,123/80,176,72,1556677889,India,Gujarat,The Dangs,Sakarpatal,394720,20.1952,73.1815,2,1,250,2
+Riley Hall,49,Female,A-,Hypertension,No,130/85,160,65,1987654321,India,Gujarat,The Dangs,Samgahan,394720,20.1992,73.1823,2,1,250,2
+Alexander Hall,50,Male,B-,Hyperlipidemia,Pollen,110/70,180,80,1122334455,India,Gujarat,The Dangs,Saputara,394720,20.1983,73.1813,2,1,250,2
+Avery Carter,51,Female,AB-,Anemia,No,140/90,165,55,1555666777,India,Gujarat,The Dangs,Singana,394716,20.1961,73.1838,2,1,250,2
+Henry Butler,52,Male,O+,No,No,125/82,170,75,1444778899,India,Gujarat,The Dangs,Subir,394716,20.1962,73.1818,2,1,250,2
+Scarlett Reed,53,Female,A+,No,Pollen,115/75,172,68,1666777888,India,Gujarat,The Dangs,Tanklipada,394716,20.1955,73.1807,2,1,250,2
+Wyatt Martinez,54,Male,B+,Diabetes,Grass,135/88,168,72,1888777666,India,Gujarat,The Dangs,Vasurna,394720,20.1985,73.1794,2,1,250,2
+Amelia Perry,55,Female,AB+,Hypertension,Tree nuts,122/81,163,69,1999888777,India,Gujarat,The Dangs,Waghai,394720,20.1973,73.1801,2,1,250,2
+Jack Jenkins,56,Male,O-,Asthma,Dust mites,128/84,176,76,1223344556,India,Gujarat,The Dangs,Zaridungarda,394720,20.1986,73.1805,2,1,250,2
+Lily Powell,57,Female,A-,Arthritis,No,118/79,171,74,1334455667,India,Gujarat,Valsad,Nanapondha,396126,20.1973,73.1819,2,1,250,2
+Matthew Adams,58,Male,B-,Depression,Mold,132/87,158,63,1445566778,India,Gujarat,Valsad,Nandigam,396105,20.1974,73.182,2,1,250,2
+Samantha Turner,19,Female,AB-,No,Pollen,112/73,183,82,1556677889,India,Gujarat,Valsad,Nani Dholdungri,396051,20.1986,73.1802,2,1,250,2
+Christopher White,22,Male,O+,Hypertension,Peanuts,138/91,167,71,1667788990,India,Gujarat,Valsad,Nani Tambadi,396193,20.198,73.1818,2,1,250,2
+Sarah Russell,24,Female,A+,Diabetes,No,126/83,174,77,1778899001,India,Gujarat,Valsad,Nanivahiyal,396065,20.1949,73.1832,2,1,250,2
+Gabriel Peterson,28,Male,B+,No,No,117/76,179,79,1889900112,India,Gujarat,Valsad,Nargol,396135,20.1965,73.1806,2,1,250,2
+Avery Miller,60,Female,AB+,Hyperlipidemia,No,129/85,165,68,1990011223,India,Gujarat,Valsad,Navera,396055,9.6186,76.7056,2,1,250,2
+Colton Torres,58,Male,O-,Anemia,Pollen,134/89,161,67,1001122334,India,Gujarat,Valsad,Nevri,396126,9.6264,76.7037,2,1,250,2
+Charlotte Johnson,20,Female,A-,No,Pollen,121/79,173,73,1112233445,India,Gujarat,Valsad,Ozar,396055,9.6113,76.7154,2,1,250,2
+Lucas Brooks,26,Male,B-,Hypothyroidism,Pollen,137/90,166,70,1223344556,India,Gujarat,Valsad,Ozarda,396065,9.6137,76.7179,2,1,250,2
+Emily King,29,Female,AB-,Asthma,Shellfish,123/81,169,72,1334455667,India,Gujarat,Valsad,Pachlai,396125,9.6255,76.7029,11,10,2500,35
+Landon Thompson,33,Male,O+,Arthritis,No,131/86,164,69,1445566778,India,Gujarat,Valsad,Palgam,396170,9.6212,76.7068,11,4,1000,16
+Aria Collins,35,Female,A+,No,Cat dander,119/78,177,75,1556677889,India,Gujarat,Valsad,Pali,396105,9.6179,76.7049,4,5,1250,33
+Michael Hayes,38,Male,B+,Hypertension,No,136/89,162,66,1667788990,India,Gujarat,Valsad,Palsana Pardi,396185,9.6261,76.709,4,6,1500,41
+Evelyn Ramirez,41,Female,AB+,Diabetes,Penicillin,124/82,175,74,1778899001,India,Gujarat,Valsad,Panas,396126,9.6227,76.7118,2,3,750,22
+Logan Howard,44,Male,O-,No,No,116/77,180,76,1889900112,India,Gujarat,Valsad,Pandor,396191,9.6234,76.7026,4,4,1000,26
+Audrey Washington,47,Female,A-,Hyperlipidemia,Pollen,127/84,168,70,1990011223,India,Gujarat,Valsad,Pardi Paria,396145,9.6286,76.7063,10,4,1000,16
+Ethan Cox,49,Male,B-,Asthma,No,133/88,163,68,1001122334,India,Gujarat,Valsad,Pardi R.s.,396125,9.6179,76.7125,2,4,1000,35
+Hazel Bell,51,Female,AB-,Arthritis,Dogs,120/79,176,72,1112233445,India,Gujarat,Valsad,Parnera (urban),396020,9.6192,76.7093,4,12,3000,88
+Benjamin Lee,53,Male,O+,Anemia,No,138/91,170,77,1223344556,India,Gujarat,Valsad,Valsad Abrama,396002,9.6286,76.7082,13,8,2000,26
+Grace Nelson,55,Female,A+,No,Mold,122/80,181,80,1334455667,India,Gujarat,Valsad,Valsad Chhipwad,396001,9.6266,76.7022,11,9,2250,33
+Jacob Allen,57,Male,B+,Hypothyroidism,No,130/86,166,70,1445566778,India,Gujarat,Valsad,Valsad I.e.,396035,9.6164,76.7119,4,5,1250,34
+Ariana Adams,59,Female,AB+,No,Pollen,118/78,172,75,1556677889,India,Gujarat,Valsad,Valsad Mograwadi,396001,9.6244,76.7096,4,4,1000,26
+Ryan Davis,21,Male,O-,Diabetes,No,135/89,159,64,1667788990,India,Gujarat,Valsad,Valsad Mota bazar,396001,9.6203,76.7044,8,15,3750,77
+Chloe Murphy,25,Female,A-,No,No,123/81,170,73,1778899001,India,Gujarat,Valsad,Valsad Sugar factory,396007,9.6156,76.7089,4,5,1250,35
+John Smith,30,Male,B-,No,Pollen,131/87,165,71,1889900112,India,Gujarat,Valsad,Valvada,396105,11.3325,75.9966,4,7,1750,52
+Madeline Scott,32,Female,AB-,Hypertension,Grass,119/79,178,78,1990011223,India,Gujarat,Valsad,Vankas,396150,11.3409,75.9928,4,7,1750,52
+Joshua Rodriguez,36,Male,O+,Hyperlipidemia,Tree nuts,136/90,164,70,1001122334,India,Gujarat,Valsad,Vapi,396191,11.3487,75.9872,2,4,1000,35
+Bella Wright,39,Female,A+,No,Dust mites,124/82,174,76,1112233445,India,Gujarat,Valsad,Vapi I.e.,396195,11.3551,75.983,11,11,2750,42
+Alexander Collins,42,Male,B+,Migraine,No,117/77,179,73,1223344556,India,Gujarat,Valsad,Varna,396126,11.3286,75.992,2,2,500,14
+Aria Campbell,45,Female,AB+,Depression,Mold,125/83,169,72,1334455667,India,Gujarat,Valsad,Varoli Talat,396126,11.3491,75.9889,2,5,1250,47
+William Edwards,48,Male,O-,No,Pollen,137/91,162,67,1445566778,India,Gujarat,Valsad,Varvath,396065,11.3302,75.9905,9,8,2000,38
+Ella Alexander,50,Female,A-,Anxiety,Peanuts,126/84,167,70,1556677889,India,Gujarat,Valsad,Vasan,396375,11.3396,75.9943,4,6,1500,47
+Joseph Moore,52,Male,B-,Hypertension,No,118/78,180,74,1667788990,India,Gujarat,Valsad,Vatar,396191,11.3457,75.9861,11,7,1750,29
+Luna Parker,54,Female,AB-,No,No,134/88,163,68,1778899001,India,Gujarat,Valsad,Velparwa,396125,11.3353,75.9875,9,9,2250,45
+David Thompson,56,Male,O+,Diabetes,No,121/80,177,75,1889900112,India,Gujarat,Valsad,Velvach,396007,11.3328,75.9891,4,6,1500,52
+Stella Murphy,17,Female,A+,Asthma,Pollen,129/86,164,70,1990011223,India,Gujarat,Valsad,Veribhavada,396050,11.3328,75.9891,4,7,1750,58
+Jackson Johnson,18,Male,B+,Arthritis,Pollen,116/76,172,73,1001122334,India,Gujarat,Valsad,Virakset,396065,11.3464,75.9854,6,2,500,11
+Zoey Turner,19,Female,AB+,No,Pollen,133/89,160,65,1112233445,India,Gujarat,Valsad,Virval,396051,11.3364,75.9851,4,7,1750,58
+Nicholas Wright,20,Male,O-,Hypertension,Shellfish,120/79,175,71,1223344556,India,Gujarat,Valsad,Zaroli,396105,11.3303,75.9921,11,9,2250,38
+Eleanor Parker,21,Female,A-,Hyperlipidemia,No,138/91,168,76,1334455667,India,Gujarat,Valsad,Asma,396125,11.3466,75.9935,11,6,1500,26
+Jonathan Morris,22,Male,B-,Anemia,Cat dander,127/84,171,75,1445566778,India,Gujarat,Valsad,Astol,396065,11.3429,75.9888,2,2,500,16
+Leah Rogers,23,Female,AB-,No,No,115/76,178,72,1556677889,India,Gujarat,Valsad,Asura,396050,11.3475,75.9847,2,7,1750,76
+Matthew Clark,24,Male,O+,No,Penicillin,132/87,166,68,1667788990,India,Gujarat,Valsad,Atak Pardi,396007,11.3372,75.9898,11,6,1500,27
+Skylar Perez,25,Female,A+,Diabetes,No,119/78,179,74,1778899001,India,Gujarat,Valsad,Atgam,396045,11.3459,75.9909,11,3,750,14
+Daniel Anderson,26,Male,B+,Hypertension,Pollen,136/90,163,70,1889900112,India,Gujarat,Valsad,Athal,396235,11.3336,75.9902,4,1,250,4
+Isabella Coleman,27,Female,AB+,Asthma,No,124/82,173,77,1990011223,India,Gujarat,Valsad,Atul,396020,11.3432,75.9873,4,1,250,4
+James Jackson,28,Male,O-,Arthritis,Dogs,117/77,181,75,1001122334,India,Gujarat,Valsad,Avdha,396050,11.3379,75.9923,4,1,250,4
+Aurora Kelly,29,Female,A-,Depression,No,135/89,165,69,1112233445,India,Kerala,Kottayam,Kallara South,686611,11.3471,75.9903,4,1,250,4
+Christian Garcia,30,Male,B-,No,Mold,122/81,176,74,1223344556,India,Kerala,Kottayam,Kalloorkulam,686503,11.3311,75.9939,4,1,250,4
+Caroline Young,31,Female,AB-,Hypertension,No,130/86,162,68,1334455667,India,Kerala,Kottayam,Kanakapalam,686509,11.3306,75.995,4,1,250,4
+William Richardson,32,Male,O+,Diabetes,Pollen,118/78,173,70,1445566778,India,Kerala,Kottayam,Kanakari,686632,11.3395,75.988,4,1,250,4
+Layla Cook,33,Female,A+,No,No,137/90,167,75,1556677889,India,Kerala,Kottayam,Kanam,686515,11.3445,75.9895,4,1,250,4
+Nathan Thomas,34,Male,B+,Hyperlipidemia,No,125/83,170,73,1667788990,India,Kerala,Kottayam,Kanamala,686510,11.342,75.994,4,1,250,4
+Nova Phillips,35,Female,AB+,Anemia,Pollen,116/76,180,71,1778899001,India,Kerala,Kottayam,Kangazha,686541,11.3474,75.9908,4,1,250,4
+Carter Wood,36,Male,O-,No,Grass,134/88,164,68,1889900112,India,Kerala,Kottayam,Kanjiram,686030,11.3379,75.99,4,1,250,4
+Sophie Adams,37,Female,A-,Hypothyroidism,Tree nuts,121/80,178,75,1990011223,India,Kerala,Kottayam,Kanjiramattom,686585,11.3401,75.9909,4,1,250,4
+Andrew Wilson,38,Male,B-,Asthma,Dust mites,129/85,166,72,1001122334,India,Kerala,Kottayam,Kanjirapally,686507,11.3364,75.9953,4,1,250,4
+Victoria Harris,39,Female,AB-,Arthritis,No,137/91,161,70,1112233445,India,Kerala,Kottayam,Kanjirapally West,686506,11.3406,75.9872,4,1,250,4
+Christopher Lee,40,Male,O+,No,Mold,126/84,168,74,1223344556,India,Kerala,Kottayam,Kanjirappara,686555,11.3473,75.9909,4,1,250,4
+Addison Roberts,41,Female,A+,Hypertension,Pollen,119/79,174,75,1334455667,India,Kerala,Kottayam,Kanjirathanam,686603,11.3422,75.9877,4,1,250,4
+Thomas Nelson,42,Male,B+,Diabetes,Peanuts,132/87,175,77,1445566778,India,Kerala,Kottayam,Kannimala,686509,11.3451,75.9925,4,1,250,4
+Madison Bell,43,Female,AB+,No,No,123/80,176,72,1556677889,India,Kerala,Kottayam,Kappadu,686508,11.3483,75.9882,4,3,750,24
+Elijah Martinez,44,Male,O-,Hyperlipidemia,No,130/85,160,65,1987654321,India,Kerala,Kottayam,Kappumthala,686613,11.3474,75.9917,4,1,250,4
+Paisley Turner,45,Female,A-,No,No,110/70,180,80,1122334455,India,Kerala,Kottayam,Karikkattoor,686101,11.3313,75.9915,4,1,250,4
+Gabriel Hayes,46,Male,B-,Depression,Pollen,140/90,165,55,1555666777,India,Kerala,Kottayam,Karikkattoor Centre,686101,11.3367,75.9868,4,1,250,4
+Sophia Washington,47,Female,AB-,No,Pollen,125/82,170,75,1444778899,India,Kerala,Kottayam,Karikode,686610,11.3438,75.9924,4,1,250,4
+Lucas Morgan,48,Male,O+,Anxiety,Pollen,115/75,172,68,1666777888,India,Kerala,Kottayam,Karimpani,686564,11.3431,75.9894,4,1,250,4
+Nora Powell,49,Female,A+,Hypertension,Shellfish,135/88,168,72,1888777666,India,Kerala,Kottayam,Karinilam,686513,11.3317,75.9932,10,8,2000,39
+Daniel Evans,50,Male,B+,Diabetes,No,122/81,163,69,1999888777,India,Kerala,Kottayam,Karipadom,686605,11.3329,75.9887,14,7,1750,26
+Gianna Rogers,51,Female,AB+,No,Cat dander,128/84,176,76,1223344556,India,Kerala,Kozhikode,Kabanigiri,673579,11.3348,75.9929,8,10,2500,63
+Jacob Hernandez,52,Male,O-,Hyperlipidemia,No,118/79,171,74,1334455667,India,Kerala,Kozhikode,Kadalundi,673302,11.3378,75.9879,11,3,750,15
+Eva Lopez,53,Female,A-,Anemia,Penicillin,132/87,158,63,1445566778,India,Kerala,Kozhikode,Kadiyangad,673525,11.3467,75.9871,4,2,500,14
+William Green,54,Male,B-,No,No,112/73,183,82,1556677889,India,Kerala,Kozhikode,Kakkad Pudupadi,673586,11.3453,75.9914,2,4,1000,43
+Penelope Cox,55,Female,AB-,Hypothyroidism,Pollen,138/91,167,71,1667788990,India,Kerala,Kozhikode,Kakkancheri,673620,11.3462,75.9879,8,9,2250,58
+Alexander Collins,56,Male,O+,Asthma,No,126/83,174,77,1778899001,India,Kerala,Kozhikode,Kakkatampoyil,673604,11.3335,75.9876,8,8,2000,52
+Ella Thompson,57,Female,A+,Arthritis,Dogs,117/76,179,79,1889900112,India,Kerala,Kozhikode,Kakkattil,673507,11.3441,75.9898,11,22,5500,98
+Henry Reed,58,Male,B+,No,No,129/85,165,68,1990011223,India,Kerala,Kozhikode,Kakkayam,673615,11.3433,75.9917,4,3,750,25
+Audrey Mitchell,59,Female,AB+,Hypertension,Mold,134/89,161,67,1001122334,India,Kerala,Kozhikode,Kakkoti,673611,11.3361,75.9892,11,17,4250,79
+Michael Scott,60,Male,O-,Diabetes,No,121/79,173,73,1112233445,India,Kerala,Kozhikode,Kakkur,673619,11.3362,75.9886,9,2,500,11
+Charlotte Hall,20,Female,A-,No,Pollen,137/90,166,70,1223344556,India,Kerala,Kozhikode,Kallachi,673506,11.343,75.9904,4,5,1250,46
+Anthony Garcia,18,Male,B-,Hyperlipidemia,No,123/81,169,72,1334455667,India,Kerala,Kozhikode,Kallai-kozhikode,673003,11.3425,75.993,11,12,3000,58
+Grace Campbell,19,Female,AB-,Asthma,No,131/86,164,69,1445566778,India,Kerala,Kozhikode,Kallanode,673615,11.3327,75.9905,7,12,3000,86
+Eli Bennett,23,Male,O+,Arthritis,Pollen,119/78,177,75,1556677889,India,Kerala,Kozhikode,Kallunira,673517,11.3468,75.9914,11,2,500,11
+Scarlett Lee,24,Female,A+,Anemia,Grass,136/89,162,66,1667788990,India,Kerala,Kozhikode,Kallurutty,673603,11.3337,75.9928,11,2,500,11
+Mason Russell,25,Male,B+,No,Tree nuts,124/82,175,74,1778899001,India,Kerala,Kozhikode,Kalpathur,673524,11.3364,75.9875,11,2,500,11
+Lily Turner,26,Female,AB+,Hypothyroidism,Dust mites,116/77,180,76,1889900112,India,Kerala,Kozhikode,Kannadipoil,673612,11.3358,75.9889,2,6,1500,75
+Jonathan Brooks,27,Male,O-,No,No,127/84,168,70,1990011223,India,Kerala,Kozhikode,Kannan Kara,673616,11.3375,75.9921,11,8,2000,41
+Aria Wright,28,Female,A-,Diabetes,Mold,133/88,163,68,1001122334,India,Kerala,Kozhikode,Kannancheri,673003,11.333,75.9899,11,3,750,16
+Joseph Cooper,29,Male,B-,No,Pollen,120/79,176,72,1112233445,India,Kerala,Kozhikode,Kanni Paramba,673661,11.3442,75.9921,12,13,3250,59
+Brooklyn Hayes,30,Female,AB-,No,Peanuts,138/91,170,77,1223344556,India,Kerala,Kozhikode,Kannookkara,673102,11.3413,75.9875,2,3,750,35
+John Turner,31,Male,O+,Hypertension,No,123/80,177,70,1223344556,India,Kerala,Kozhikode,Kannoth,673580,11.3415,75.9918,16,8,2000,28
+Layla Foster,32,Female,A+,Hyperlipidemia,No,131/85,169,75,1334455667,India,Kerala,Kozhikode,Kappad,673304,11.3405,75.9911,11,7,1750,37
+Ethan Washington,33,Male,B+,No,No,118/76,168,65,1445566778,India,Kerala,Kozhikode,Karad Paramba,673632,11.3347,75.9902,4,3,750,28
+Ava Parker,34,Female,AB+,Migraine,Pollen,136/88,160,68,1556677889,India,Kerala,Kozhikode,Karandode,673508,11.3357,75.9872,12,12,3000,58
+Noah Mitchell,35,Male,O-,Depression,Pollen,125/82,170,73,1667788990,India,Kerala,Kozhikode,Karanthur,673571,11.3394,75.9919,4,4,1000,41
+Ariana Campbell,36,Female,A-,No,Pollen,119/78,175,70,1778899001,India,Kerala,Kozhikode,Karaparamba,673010,11.3444,75.9876,11,14,3500,73
+Daniel Edwards,37,Male,B-,Anxiety,Shellfish,134/90,165,78,1889900112,India,Kerala,Kozhikode,Karasseri,673602,11.3466,75.9875,2,2,500,23
+Elena Wright,38,Female,AB-,Hypertension,No,126/81,172,74,1990011223,India,Kerala,Kozhikode,Karayad,673524,11.3325,75.9923,2,3,750,38
+Jackson Rodriguez,39,Male,O+,No,Cat dander,132/87,171,76,1001122334,India,Kerala,Kozhikode,Karingad,673513,11.3353,75.9885,4,5,1250,58
+Emma Kelly,40,Female,A+,Diabetes,No,120/77,176,72,1112233445,India,Kerala,Kozhikode,Kariyathankavu,673612,11.3427,75.9888,4,4,1000,43
+William Thompson,41,Male,B+,Asthma,Penicillin,137/91,163,70,1223344556,India,Kerala,Kozhikode,Karthikappally,673542,11.3334,75.9903,3,2,500,23
+Zoe Turner,42,Female,AB+,Arthritis,No,128/84,168,74,1334455667,India,Kerala,Kozhikode,Karumala,673612,11.3361,75.9874,11,8,2000,46
+Matthew Lewis,43,Male,O-,No,Pollen,116/75,174,71,1445566778,India,Kerala,Kozhikode,Karuvampoyil,673572,11.3403,75.9896,4,7,1750,82
+Sarah Mitchell,44,Female,A-,Hypertension,No,133/88,162,67,1556677889,India,Kerala,Malappuram,Chelakkad,679323,11.3428,75.9887,13,4,1000,21
+Christopher Hill,45,Male,B-,Hyperlipidemia,Dogs,121/80,179,75,1667788990,India,Kerala,Malappuram,Chelembra,673634,11.3349,75.9921,16,11,2750,40
+Lucy Parker,46,Female,AB-,Anemia,No,129/86,167,72,1778899001,India,Kerala,Malappuram,Chembrassei,676521,11.3372,75.9883,16,7,1750,28
+Joshua Hall,47,Male,O+,No,Mold,117/76,181,74,1889900112,India,Kerala,Malappuram,Chembrasseri East,679327,11.3401,75.9897,7,2,500,16
+Addison Ross,48,Female,A+,No,No,135/89,164,69,1990011223,India,Kerala,Malappuram,Chemmalasseri,679323,11.3332,75.9883,4,5,1250,58
+Andrew Wilson,49,Female,B+,Diabetes,Pollen,124/82,173,77,1001122334,India,Kerala,Malappuram,Chemmaniyode,679325,11.3339,75.9917,4,5,1250,58
+Mia Campbell,50,Male,AB+,Hypertension,No,138/92,160,68,1112233445,India,Kerala,Malappuram,Chemmarakkattur,673639,11.3397,75.9919,4,4,1000,46
+Logan Turner,51,Female,O-,Asthma,No,127/83,169,73,1223344556,India,Kerala,Malappuram,Chenakkalangadi,673636,11.3343,75.9907,14,13,3250,57
+Avery Bryant,52,Male,A-,Arthritis,Pollen,130/86,165,70,1334455667,India,Kerala,Malappuram,Chengottur,676503,11.3374,75.9894,4,3,750,34
+Natalie Butler,53,Female,B-,Depression,Grass,118/78,174,75,1445566778,India,Kerala,Malappuram,Chennara,676561,11.3387,75.9879,14,18,4500,78
+Gabriel Davis,54,Male,AB-,No,Tree nuts,136/90,162,65,1556677889,India,Kerala,Malappuram,Cherakkaparamba,679321,11.3356,75.9883,11,8,2000,48
+Aria Washington,55,Female,O+,Hypertension,Dust mites,125/83,171,76,1667788990,India,Kerala,Malappuram,Cheriyamundam,676111,11.3424,75.9897,14,16,4000,70
+Alexander Adams,56,Male,A+,Diabetes,No,119/79,176,72,1778899001,India,Kerala,Malappuram,Cherukara,679340,11.3429,75.9904,14,4,1000,22
+Sophia Hayes,57,Female,B+,No,Mold,134/88,164,68,1889900112,India,Kerala,Malappuram,Cherumukku,676306,11.3369,75.9892,14,5,1250,26
+Elijah Martin,58,Male,AB+,Hyperlipidemia,Pollen,126/85,167,71,1990011223,India,Kerala,Malappuram,Cherur,676304,11.3359,75.9897,8,2,500,16
+Aurora Collins,59,Female,O-,Anemia,Peanuts,131/87,163,69,1001122334,India,Kerala,Malappuram,Cherushola,676510,11.3379,75.9904,11,5,1250,33
+Liam White,60,Male,A-,No,No,120/78,179,74,1112233445,India,Kerala,Malappuram,Cheruvallur,679575,11.3352,75.9908,11,2,500,14
+Charlotte Perez,17,Female,B-,Hypothyroidism,No,138/92,161,67,1223344556,India,Kerala,Malappuram,Cheruvayur,673645,11.3364,75.9916,4,2,500,23
+Benjamin Wright,22,Male,AB-,Asthma,No,128/84,169,73,1334455667,India,Kerala,Malappuram,Chettipadi,676319,11.3373,75.9889,9,2,500,16
+Aria Morgan,21,Female,O+,Arthritis,Pollen,117/77,182,75,1445566778,India,Kerala,Malappuram,Chettippadam,679332,11.3354,75.9886,14,5,1250,28
+David Bell,20,Male,A+,No,Pollen,133/89,166,71,1556677889,India,Kerala,Malappuram,Chikkode,673645,11.3393,75.9882,14,3,750,19
+Scarlett Rodriguez,25,Female,B+,Hypertension,Pollen,122/80,177,76,1667788990,India,Kerala,Malappuram,Chirayil,673638,11.3347,75.9898,14,4,1000,23
+James Young,23,Male,AB+,Diabetes,Shellfish,129/86,168,72,1778899001,India,Kerala,Malappuram,Chokkad,679355,11.3399,75.9884,16,12,3000,50
+Madison Campbell,24,Female,O-,No,No,118/78,175,70,1889900112,India,Kerala,Malappuram,Chullippara,676508,11.3335,75.9905,11,4,1000,28
+Ethan Hall,26,Male,A-,Hyperlipidemia,Cat dander,136/90,163,68,1990011223,India,Kerala,Malappuram,Chulliyode,679332,11.3341,75.9892,11,5,1250,35
+Layla Thompson,27,Female,B-,Asthma,No,125/83,170,73,1001122334,India,Kerala,Malappuram,Chungathara,679334,11.3385,75.9906,11,5,1250,35
+Lucas Wilson,28,Male,AB-,Arthritis,Penicillin,119/79,176,72,1112233445,India,Kerala,Malappuram,Codacal,676108,11.3404,75.9904,2,4,1000,70
+Grace Bennett,29,Female,O+,Anemia,No,134/88,164,68,1223344556,India,Maharashtra,Aurangabad,Bhadwa Bazar,824122,11.333,75.9895,14,5,1250,28
+Jacob Hernandez,30,Male,A+,No,Pollen,126/85,167,71,1334455667,India,Maharashtra,Aurangabad,Bhaggaon,423701,11.3388,75.9877,14,2,500,14
+Avery Adams,31,Female,B+,Hypothyroidism,No,131/87,163,69,1445566778,India,Maharashtra,Aurangabad,Bhagur,423701,19.076,72.8777,14,2,500,14
+Mason Hill,32,Male,AB+,No,Dogs,120/78,179,74,1556677889,India,Maharashtra,Aurangabad,Bhakarwadi,431007,18.5204,73.8567,14,2,500,14
+Sofia Young,33,Female,O-,Diabetes,No,138/92,161,67,1667788990,India,Maharashtra,Aurangabad,Bhakharua,824113,20.5937,78.9629,14,2,500,14
+Carter Rodriguez,34,Male,A-,No,Mold,128/84,169,73,1778899001,India,Maharashtra,Aurangabad,Bhalgaon,431007,21.1458,79.0882,14,2,500,14
+Madison Adams,35,Female,B-,No,No,117/77,182,75,1889900112,India,Maharashtra,Aurangabad,Bham,824116,20.391,72.8397,14,2,500,14
+Eli Campbell,36,Male,AB-,Hypertension,Pollen,133/89,166,71,1990011223,India,Maharashtra,Aurangabad,Bharadi,431113,19.9975,73.7898,2,3,750,52
+Lily Roberts,37,Female,O+,Hyperlipidemia,No,122/80,177,76,1001122334,India,Maharashtra,Aurangabad,Bharamba,431104,19.8762,75.3433,14,6,1500,34
+William Thomas,38,Male,A+,No,No,129/86,168,72,1112233445,India,Maharashtra,Aurangabad,Bharub,824124,20.0021,77.0144,11,5,1250,37
+Ella Hill,39,Female,B+,Migraine,Pollen,118/78,175,70,1223344556,India,Maharashtra,Aurangabad,Bhendala,431110,19.1643,77.3081,4,5,1250,74
+Logan Collins,40,Male,AB+,Depression,Grass,136/90,163,68,1334455667,India,Maharashtra,Aurangabad,Bhivgaon,423703,20.658,76.1582,11,3,750,23
+Sophie Foster,41,Female,O-,No,Tree nuts,125/83,170,73,1445566778,India,Maharashtra,Aurangabad,Bhokardan,431114,20.7453,76.6901,16,4,1000,23
+Christian Edwards,42,Male,A-,Anxiety,Dust mites,119/79,176,72,1556677889,India,Maharashtra,Aurangabad,Bidkingaon,431105,20.7497,76.9372,16,3,750,19
+Lucy Turner,43,Female,B-,Hypertension,No,134/88,164,68,1667788990,India,Maharashtra,Aurangabad,Bihamandwa,431137,19.8504,77.7265,11,5,1250,38
+Nicholas Washington,44,Male,AB-,No,Mold,126/85,167,71,1778899001,India,Maharashtra,Aurangabad,Bilda,431008,20.392,76.505,11,2,500,16
+Luna Perez,45,Female,O+,Diabetes,Pollen,131/87,163,69,1889900112,India,Maharashtra,Aurangabad,Biloni,431116,20.8232,76.3439,12,9,2250,60
+Michael Turner,46,Male,A+,Asthma,Peanuts,120/78,179,74,1990011223,India,Maharashtra,Aurangabad,Bishambharpur,824125,19.1579,76.1427,9,1,250,9
+Emily Rodriguez,47,Female,B+,Arthritis,No,138/92,161,67,1001122334,India,Maharashtra,Aurangabad,Bisunpur Chati,824202,20.1809,76.5398,9,1,250,9
+Christopher Campbell,48,Male,AB+,No,No,128/84,169,73,1112233445,India,Maharashtra,Aurangabad,Bodhegaon,431151,20.3447,76.5237,4,2,500,29
+Emma Rodriguez,49,Female,O-,Hypertension,No,117/77,182,75,1223344556,India,Maharashtra,Aurangabad,Bodkha,431111,20.7025,77.0229,11,2,500,17
+Jonathan Adams,50,Male,A-,Hyperlipidemia,Pollen,133/89,166,71,1334455667,India,Maharashtra,Aurangabad,Bokud Jalgaon,431105,19.6362,76.9574,14,4,1000,26
+Hannah Martinez,51,Female,B-,Anemia,Pollen,122/80,177,76,1445566778,India,Maharashtra,Aurangabad,Borgaon Arj,431134,19.8948,75.3203,11,9,2250,72
+James Turner,52,Male,AB-,No,Pollen,129/86,168,72,1556677889,India,Maharashtra,Aurangabad,Borgaon Bazar,431113,19.8712,75.3451,11,5,1250,41
+Layla Collins,53,Female,O+,No,Shellfish,118/78,175,70,1667788990,India,Maharashtra,Aurangabad,Borgaon Kasari,431135,19.8709,75.3376,15,16,4000,82
+Jackson Parker,54,Male,A+,Diabetes,No,136/90,163,68,1778899001,India,Maharashtra,Aurangabad,Borsar Bk,431102,19.8731,75.2997,9,5,1250,51
+Isabella Smith,55,Female,B+,Hypertension,Cat dander,125/83,170,73,1889900112,India,Maharashtra,Aurangabad,Borsar(bhingi),423703,19.8507,75.4395,11,4,1000,34
+Gabriel Martinez,56,Male,AB+,Asthma,No,119/79,176,72,1990011223,India,Maharashtra,Aurangabad,Bramhani,431103,19.8745,75.3623,14,8,2000,50
+Ava Edwards,57,Female,O-,Arthritis,Penicillin,134/88,164,68,1001122334,India,Maharashtra,Aurangabad,Budhia,824203,19.8911,75.3445,16,7,1750,38
+Nathan Wright,58,Male,A-,Depression,No,126/85,167,71,1112233445,India,Maharashtra,Aurangabad,Bhadwa Bazar,824122,19.8561,75.3331,14,2,500,16
+Mia Young,59,Female,B-,No,Pollen,131/87,163,69,1223344556,India,Maharashtra,Aurangabad,Bhaggaon,423701,19.8821,75.4358,2,2,500,41
+Matthew Martinez,60,Male,AB-,Hypertension,No,120/78,179,74,1334455667,India,Maharashtra,Aurangabad,Bhagur,423701,19.8821,75.4358,14,16,4000,98
+Sofia Mitchell,18,Female,O+,Diabetes,Dogs,138/92,161,67,1445566778,India,Maharashtra,Aurangabad,Bhakarwadi,431007,19.8821,75.4358,14,4,1000,28
+William Johnson,19,Male,A+,No,No,128/84,169,73,1556677889,India,Maharashtra,Aurangabad,Bhakharua,824113,19.9211,75.4547,16,7,1750,39
+Aria Hayes,21,Female,B+,Hyperlipidemia,Mold,117/77,182,75,1667788990,India,Maharashtra,Aurangabad,Bhalgaon,431007,19.8783,75.4262,14,7,1750,47
+David Thompson,22,Male,AB+,Anemia,No,133/89,166,71,1778899001,India,Maharashtra,Aurangabad,Bham,824116,19.8634,75.3421,16,6,1500,35
+Sarah Young,23,Female,O-,No,Pollen,122/80,177,76,1889900112,India,Maharashtra,Aurangabad,Bharadi,431113,19.8714,75.3448,16,6,1500,35
+John Campbell,24,Male,A-,Hypothyroidism,No,129/86,168,72,1990011223,India,Maharashtra,Aurangabad,Bharamba,431104,19.8786,75.3561,11,7,1750,62
+Madison Wright,25,Female,B-,Asthma,No,118/78,175,70,1001122334,India,Maharashtra,Aurangabad,Bharub,824124,19.8555,75.3212,16,2,500,16
+Ethan Hill,26,Male,AB-,Arthritis,Pollen,136/90,163,68,1112233445,India,Maharashtra,Aurangabad,Bhendala,431110,19.8629,75.4178,16,3,750,21
+Lily Mitchell,27,Female,O+,No,Grass,125/83,170,73,1223344556,India,Maharashtra,Aurangabad,Bhivgaon,423703,19.8824,75.3837,11,3,750,28
+Alexander Roberts,28,Male,A+,Hypertension,Tree nuts,119/79,176,72,1334455667,India,Maharashtra,Aurangabad,Bhokardan,431114,19.9101,75.4289,11,7,1750,64
+Sophia Lopez,29,Female,B+,Diabetes,Dust mites,134/88,164,68,1445566778,India,Maharashtra,Aurangabad,Bidkingaon,431105,19.8751,75.3929,11,1,250,11
+Lucas Wilson,30,Male,AB+,No,No,126/85,167,71,1556677889,India,Maharashtra,Aurangabad,Bihamandwa,431137,19.9002,75.3649,9,3,750,34
+Nora Campbell,31,Female,O-,Hyperlipidemia,Mold,131/87,163,69,1667788990,India,Maharashtra,Aurangabad,Bilda,431008,19.8734,75.3499,14,4,1000,30
+Carter Smith,32,Male,A-,Asthma,Pollen,120/78,179,74,1778899001,India,Maharashtra,Aurangabad,Biloni,431116,19.888,75.4016,23,38,9500,98
+Charlotte Thompson,33,Female,B-,Arthritis,Peanuts,138/92,161,67,1889900112,India,Maharashtra,Aurangabad,Bishambharpur,824125,19.8761,75.3341,11,6,1500,58
+Benjamin Adams,34,Male,AB-,Anemia,No,128/84,169,73,1990011223,India,Maharashtra,Aurangabad,Bisunpur Chati,824202,19.868,75.3501,11,1,250,11
+Ella White,35,Female,O+,No,No,117/77,182,75,1001122334,India,Maharashtra,Aurangabad,Bodhegaon,431151,19.8505,75.3457,11,1,250,11
+Andrew Wright,36,Male,A+,Hypothyroidism,No,133/89,166,71,1112233445,India,Maharashtra,Aurangabad,Bodkha,431111,19.8734,75.3499,11,1,250,11
+Mia Washington,37,Female,B+,No,Pollen,122/80,177,76,1223344556,India,Maharashtra,Aurangabad,Bokud Jalgaon,431105,19.8948,75.3203,11,1,250,11
+Joshua Turner,38,Male,AB+,Diabetes,Pollen,129/86,168,72,1334455667,India,Maharashtra,Aurangabad,Borgaon Arj,431134,19.8712,75.3451,11,1,250,11
+Scarlett Hill,39,Female,O-,No,Pollen,118/78,175,70,1445566778,India,Maharashtra,Aurangabad,Borgaon Bazar,431113,19.8709,75.3376,11,1,250,11
+Joseph Perez,40,Male,A-,No,Shellfish,136/90,163,68,1556677889,India,Maharashtra,Aurangabad,Borgaon Kasari,431135,19.8731,75.2997,11,1,250,11
+Emma Hayes,41,Female,B-,Hypertension,No,125/83,170,73,1667788990,India,Maharashtra,Aurangabad,Borsar Bk,431102,19.8507,75.4395,11,1,250,11
+James Mitchell,42,Male,AB-,Hyperlipidemia,Cat dander,119/79,176,72,1778899001,India,Maharashtra,Aurangabad,Borsar(bhingi),423703,19.8745,75.3623,11,2,500,21
+Ava Rodriguez,43,Female,O+,No,No,134/88,164,68,1889900112,India,Maharashtra,Aurangabad,Bramhani,431103,19.8911,75.3445,11,5,1250,50
+Christopher Turner,44,Male,A+,Migraine,Penicillin,126/85,167,71,1990011223,India,Maharashtra,Aurangabad,Budhia,824203,19.8561,75.3331,11,2,500,21
+Hannah Hayes,45,Female,B+,Depression,No,131/87,163,69,1001122334,India,Maharashtra,Aurangabad,Bhadwa Bazar,824122,19.8821,75.4358,16,4,1000,28
+Matthew Mitchell,46,Male,AB+,No,Pollen,120/78,179,74,1112233445,India,Maharashtra,Aurangabad,Bhaggaon,423701,19.8821,75.4358,4,2,500,41
+Aria Turner,47,Female,O-,Anxiety,No,138/92,161,67,1223344556,India,Maharashtra,Aurangabad,Bhagur,423701,19.8821,75.4358,16,6,1500,40
+Nicholas Carter,48,Male,A-,Hypertension,Dogs,128/84,169,73,1334455667,India,Maharashtra,Aurangabad,Bhakarwadi,431007,19.9211,75.4547,14,3,750,26
+Layla Parker,49,Female,B-,No,No,117/77,182,75,1445566778,India,Maharashtra,Aurangabad,Bhakharua,824113,19.8783,75.4262,9,2,500,26
+William Hill,50,Male,AB-,Diabetes,Mold,133/89,166,71,1556677889,India,Maharashtra,Aurangabad,Bhalgaon,431007,19.8634,75.3421,21,16,4000,64
+Lucy Rodriguez,51,Female,O+,Asthma,No,122/80,177,76,1667788990,India,Maharashtra,Aurangabad,Bham,824116,19.8714,75.3448,14,6,1500,51
+Jacob Thompson,52,Male,A+,Arthritis,Pollen,129/86,168,72,1778899001,India,Maharashtra,Aurangabad,Bharadi,431113,19.8786,75.3561,11,2,500,24
+Grace Wright,53,Female,B+,No,No,118/78,175,70,1889900112,India,Maharashtra,Aurangabad,Bharamba,431104,19.8555,75.3212,4,3,750,71
+Daniel Rodriguez,54,Male,AB+,Hypertension,No,136/90,163,68,1990011223,India,Maharashtra,Aurangabad,Bharub,824124,19.8629,75.4178,21,13,3250,57
+Ella Collins,55,Female,O-,Hyperlipidemia,Pollen,125/83,170,73,1001122334,India,Maharashtra,Aurangabad,Bhendala,431110,19.8824,75.3837,11,6,1500,71
+Jackson Adams,56,Male,A-,Anemia,Grass,119/79,176,72,1112233445,India,Maharashtra,Aurangabad,Bhivgaon,423703,19.9101,75.4289,14,2,500,21
+Sophia Turner,57,Female,B-,No,Tree nuts,134/88,164,68,1223344556,India,Maharashtra,Aurangabad,Bhokardan,431114,19.8751,75.3929,23,15,3750,57
+David Hall,58,Male,AB-,No,Dust mites,126/85,167,71,1334455667,India,Maharashtra,Aurangabad,Bidkingaon,431105,19.9002,75.3649,14,4,1000,38
+Madison White,59,Female,O+,Diabetes,No,131/87,163,69,1445566778,India,Maharashtra,Aurangabad,Bihamandwa,431137,19.8734,75.3499,11,2,500,26
+Christian Turner,60,Male,A+,Hypertension,Mold,120/78,179,74,1556677889,India,Maharashtra,Aurangabad,Bilda,431008,19.888,75.4016,16,5,1250,40
+Luna Mitchell,20,Female,B+,Asthma,Pollen,138/92,161,67,1667788990,India,Maharashtra,Aurangabad,Biloni,431116,19.8761,75.3341,4,2,500,51
+Elijah Washington,25,Male,AB+,Arthritis,Peanuts,128/84,169,73,1778899001,India,Maharashtra,Aurangabad,Bishambharpur,824125,19.868,75.3501,14,3,750,31
+Sofia Turner,32,Female,O-,Depression,No,117/77,182,75,1889900112,India,Maharashtra,Aurangabad,Bisunpur Chati,824202,19.8505,75.3457,4,2,500,52
+Alexander Young,45,Male,A-,No,No,133/89,166,71,1990011223,India,Maharashtra,Aurangabad,Bodhegaon,431151,19.8734,75.3499,9,4,1000,65
+Ava Martinez,37,Female,B-,Hypertension,No,122/80,177,76,1001122334,India,Maharashtra,Aurangabad,Bodkha,431111,19.8948,75.3203,14,4,1000,40
+Matthew Turner,49,Male,AB-,Diabetes,Pollen,129/86,168,72,1112233445,India,Maharashtra,Aurangabad,Bokud Jalgaon,431105,19.8712,75.3451,11,3,750,40
+Lily Turner,22,Female,O+,No,Pollen,118/78,175,70,1223344556,India,Maharashtra,Aurangabad,Borgaon Arj,431134,19.8709,75.3376,14,5,1250,50
+Gabriel Hill,29,Male,A+,Hyperlipidemia,Pollen,136/90,163,68,1334455667,India,Maharashtra,Aurangabad,Borgaon Bazar,431113,19.8731,75.2997,14,1,250,14
+Isabella Rodriguez,35,Female,B+,Anemia,Shellfish,125/83,170,73,1445566778,India,Maharashtra,Aurangabad,Borgaon Kasari,431135,19.8507,75.4395,14,1,250,14
+Andrew Martinez,42,Male,AB+,No,No,119/79,176,72,1556677889,India,Maharashtra,Aurangabad,Borsar Bk,431102,19.8745,75.3623,14,1,250,14
+Emma Hill,20,Female,O-,Hypothyroidism,Cat dander,134/88,164,68,1667788990,India,Maharashtra,Aurangabad,Borsar(bhingi),423703,19.8911,75.3445,14,1,250,14
+Joshua Turner,26,Male,A-,Asthma,No,126/85,167,71,1778899001,India,Maharashtra,Aurangabad,Bramhani,431103,19.8561,75.3331,14,1,250,14
+Sophie Turner,31,Female,B-,Arthritis,Penicillin,131/87,163,69,1889900112,India,Maharashtra,Aurangabad,Budhia,824203,19.8821,75.4358,14,1,250,14
+Nicholas Perez,39,Male,AB-,No,No,120/78,179,74,1990011223,India,Maharashtra,Beed,Deola,431122,19.8821,75.4358,14,1,250,14
+Ella Campbell,44,Female,O+,Hypertension,Pollen,138/92,161,67,1001122334,India,Maharashtra,Beed,Deolali,414202,19.8821,75.4358,14,1,250,14
+Christopher Rodriguez,21,Male,A+,Diabetes,No,128/84,169,73,1112233445,India,Maharashtra,Beed,Deulgaon Ghat,414202,19.9211,75.4547,14,7,1750,72
+Madison Young,28,Female,B+,No,Dogs,117/77,182,75,1223344556,India,Maharashtra,Beed,Devi Babhulgoan,431126,19.8783,75.4262,14,1,250,14
+William Hayes,33,Male,AB+,Hyperlipidemia,No,133/89,166,71,1334455667,India,Maharashtra,Beed,Devinimgaon,414202,19.8634,75.3421,14,1,250,14
+Hannah Turner,40,Female,O-,Asthma,Mold,122/80,177,76,1445566778,India,Maharashtra,Beed,Dhamangaon,414202,19.8714,75.3448,9,3,750,52
+Daniel Mitchell,45,Male,A-,Arthritis,No,129/86,168,72,1556677889,India,Maharashtra,Beed,Dhanegaon Camp,431518,19.8786,75.3561,14,7,1750,73
+Charlotte Hill,24,Female,B-,Anemia,Pollen,118/78,175,70,1667788990,India,Maharashtra,Beed,Dhangarjawalka,414204,19.8555,75.3212,11,4,1000,58
+Michael Turner,27,Male,AB-,No,No,136/90,163,68,1778899001,India,Maharashtra,Beed,Dhanora,414202,19.8629,75.4178,11,4,1000,59
+Sophia Young,34,Female,O+,Hypothyroidism,No,125/83,170,73,1889900112,India,Maharashtra,Beed,Dharmapuri,431515,19.8824,75.3837,4,2,500,59
+Jonathan Turner,38,Male,A+,No,Pollen,119/79,176,72,1990011223,India,Maharashtra,Beed,Dhekanmoha,431122,19.9101,75.4289,11,4,1000,61
+Lucy Wright,46,Female,B+,Diabetes,Grass,134/88,164,68,1001122334,India,Maharashtra,Beed,Dhondrai,431127,19.8751,75.3929,16,4,1000,40
+Joshua Rodriguez,25,Male,AB+,No,Tree nuts,126/85,167,71,1112233445,India,Maharashtra,Beed,Dighol Amba,431517,19.9002,75.3649,16,10,2500,89
+Ava Turner,32,Female,O-,No,Dust mites,131/87,163,69,1223344556,India,Maharashtra,Beed,Dindrood,431128,19.8734,75.3499,21,2,500,21
+James Young,36,Male,A-,Hypertension,No,120/78,179,74,1334455667,India,Maharashtra,Beed,Doithan,414203,19.888,75.4016,21,3,750,26
+Layla Rodriguez,43,Female,B-,Hyperlipidemia,Mold,138/92,161,67,1445566778,India,Maharashtra,Beed,Domri,414204,19.8761,75.3341,16,8,2000,76
+John Turner,50,Male,AB-,No,Pollen,128/84,169,73,1556677889,India,Maharashtra,Beed,Dongar Patoda,414205,19.868,75.3501,21,3,750,26
+Emma Turner,47,Female,O+,Migraine,Peanuts,117/77,182,75,1667788990,India,Maharashtra,Beed,Dongar Pimpla,431517,19.8505,75.3457,18,2,500,23
+Matthew Wright,51,Male,A+,Depression,No,133/89,166,71,1778899001,India,Maharashtra,Beed,Dongargan,414202,19.8734,75.3499,23,5,1250,33
+Sophie Campbell,52,Female,B+,No,No,122/80,177,76,1889900112,India,Maharashtra,Beed,Dongarkinhi,413229,19.8948,75.3203,23,8,2000,46
+Benjamin Turner,53,Male,AB+,Anxiety,No,129/86,168,72,1990011223,India,Maharashtra,Beed,Gangadevi,414203,19.8712,75.3451,16,3,750,34
+Ella Mitchell,54,Male,O-,Hypertension,Pollen,118/78,175,70,1001122334,India,Maharashtra,Beed,Gangamasla,431131,19.8709,75.3376,14,5,1250,64
+Andrew Turner,55,Male,A-,No,Pollen,136/90,163,68,1112233445,India,Maharashtra,Beed,Gevrai,431127,19.8731,75.2997,14,3,750,41
+Mia Campbell,56,Female,B-,Diabetes,Pollen,125/83,170,73,1223344556,India,Maharashtra,Beed,Ghagarwada,431124,19.8507,75.4395,16,1,250,16
+Christopher Rodriguez,57,Male,AB-,Asthma,Shellfish,119/79,176,72,1334455667,India,Maharashtra,Beed,Ghatapimpri,414202,19.8745,75.3623,16,1,250,16
+Lucas Turner,58,Female,O+,Arthritis,No,134/88,164,68,1445566778,India,Maharashtra,Beed,Ghatnandur,431519,19.8911,75.3445,16,1,250,16
+William Campbell,59,Male,A+,No,Cat dander,126/85,167,71,1556677889,India,Maharashtra,Beed,Ghatsawali,431122,19.8561,75.3331,16,1,250,16
+Ella Turner,60,Female,B+,Hypertension,No,131/87,163,69,1667788990,India,Maharashtra,Beed,Ghatshilpargaon,413249,19.8821,75.4358,16,1,250,16
+Daniel Rodriguez,19,Male,AB+,Hyperlipidemia,Penicillin,120/78,179,74,1778899001,India,Maharashtra,Beed,Ghogas Pargaon,431130,19.8821,75.4358,16,1,250,16
+Ava Young,23,Female,O-,Anemia,No,138/92,161,67,1889900112,India,Maharashtra,Beed,Girwali,431519,19.8821,75.4358,16,1,250,16
+Matthew Turner,30,Male,A-,No,Pollen,128/84,169,73,1990011223,India,Maharashtra,Beed,Goverdhan Hiwara,431128,19.9211,75.4547,16,4,1000,45
+Sophie Campbell,41,Female,B-,No,No,117/77,182,75,1001122334,India,Maharashtra,Beed,Gulaj,431130,19.8783,75.4262,16,1,250,16
+Benjamin Turner,48,Male,AB-,Diabetes,Dogs,133/89,166,71,1112233445,India,Maharashtra,Beed,Halam,431515,19.8634,75.3421,16,1,250,16
+Emma Mitchell,36,Male,O+,Hypertension,No,122/80,177,76,1223344556,India,Maharashtra,Beed,Harichanra Pimpri,431122,19.8714,75.3448,16,1,250,16
+Andrew Turner,26,Female,A+,Asthma,Mold,129/86,168,72,1334455667,India,Maharashtra,Beed,Harkinnimgaon,431129,19.8786,75.3561,16,1,250,16
+Mia Campbell,21,Male,B+,Arthritis,No,118/78,175,70,1445566778,India,Maharashtra,Beed,Hatola,431517,19.8555,75.3212,16,1,250,16
+Christopher Rodriguez,55,Female,AB+,Depression,Pollen,136/90,163,68,1556677889,India,Maharashtra,Beed,Hingni Bk,431128,19.8629,75.4178,16,2,500,26
+Lucas Turner,42,Male,O-,No,No,125/83,170,73,1667788990,India,Maharashtra,Beed,Hirapur,431127,19.8824,75.3837,21,2,500,23
+Emily Parker,28,Female,A-,Hypertension,No,119/79,176,72,1778899001,India,Maharashtra,Beed,Hiwara,431129,19.9101,75.4289,16,2,500,27
+Daniel Adams,30,Male,B-,Diabetes,Pollen,134/88,164,68,1889900112,India,Maharashtra,Beed,Hoal,431517,19.8751,75.3929,21,2,500,23
+Ava Martinez,38,Female,AB-,No,Grass,126/85,167,71,1990011223,India,Maharashtra,Beed,Jamgoan,414203,19.9002,75.3649,21,2,500,23
+Matthew Young,22,Male,O+,Hyperlipidemia,Tree nuts,131/87,163,69,1001122334,India,Maharashtra,Beed,Jategaon,431127,19.8734,75.3499,14,4,1000,57
+Sophie Turner,52,Female,A+,Anemia,Dust mites,120/78,179,74,1112233445,India,Maharashtra,Beed,Jatnandur,413229,19.888,75.4016,16,5,1250,60
+Benjamin Perez,46,Male,B+,No,No,138/92,161,67,1223344556,India,Maharashtra,Beed,Jawalban,431518,19.8761,75.3341,23,2,500,23
+Emma Turner,50,Female,AB+,Hypothyroidism,Mold,128/84,169,73,1334455667,India,Maharashtra,Beed,Jawalgaon,431517,19.868,75.3501,14,5,1250,74
+Jonathan Campbell,33,Male,O-,Asthma,Pollen,117/77,182,75,1445566778,India,Maharashtra,Beed,Jeba Pimpri,431126,19.8505,75.3457,23,3,750,28
+Lucy Turner,41,Female,A-,Arthritis,Peanuts,133/89,166,71,1556677889,India,Maharashtra,Beed,Jiwachiwadi,431123,19.8734,75.3499,16,3,750,40
+Joshua Rodriguez,44,Male,B-,No,No,122/80,177,76,1667788990,India,Maharashtraez,Beed,Jogeswari Pargaon,414203,18.9773,75.6821,9,2,500,52
+Aria Young,53,Female,AB-,Hypertension,No,129/86,168,72,1778899001,India,Maharashtra,Beed,Kada,414202,18.9623,75.6624,9,2,500,52
+James Turner,25,Male,O+,Diabetes,No,118/78,175,70,1889900112,India,Maharashtra,Beed,Kadasakhar,414208,18.9821,75.7125,16,7,1750,87
+Layla Turner,24,Female,A+,No,Pollen,136/90,163,68,1990011223,India,Maharashtra,Beed,Kadiwadgaon,431122,19.0226,75.6145,14,4,1000,64
+John Rodriguez,39,Male,B+,Hyperlipidemia,Pollen,125/83,170,73,1001122334,India,Maharashtra,Beed,Kaij,431123,18.8721,75.6556,14,2,500,35
+Mia Perez,20,Female,AB+,Asthma,Pollen,119/79,176,72,1112233445,India,Maharashtra,Beed,Kalamamba,431123,18.9132,75.6499,16,7,1750,93
+William Turner,48,Male,O-,Arthritis,Shellfish,134/88,164,68,1223344556,India,Maharashtra,Beed,Kalegoanghat,431123,18.9015,75.6264,21,2,500,25
+Ella Young,35,Female,A-,Anemia,No,126/85,167,71,1334455667,India,Maharashtra,Beed,Kalsambar,431125,18.9309,75.6742,14,3,750,52
+Daniel Turner,37,Male,B-,No,Cat dander,131/87,163,69,1445566778,India,Maharashtra,Beed,Kamkheda,431122,19.0226,75.6145,23,14,3500,93
+Sophie Rodriguez,45,Female,AB-,Hypothyroidism,No,120/78,179,74,1556677889,India,Maharashtra,Beed,Kanherwadi,431515,18.9486,75.8212,18,8,2000,95
+Benjamin Young,49,Male,O+,No,Penicillin,138/92,161,67,1667788990,India,Maharashtra,Beed,Karegaon,413229,18.9981,75.7789,16,3,750,46
+Emma Turner,40,Male,A+,Diabetes,No,128/84,169,73,1778899001,India,Maharashtra,Beed,Karhewadgaon,414203,18.9773,75.6821,11,3,750,76
+Andrew Rodriguez,29,Female,B+,No,Pollen,117/77,182,75,1889900112,India,Maharashtra,Beed,Kari,431124,18.9382,75.6842,11,2,500,52
+Mia Perez,34,Female,AB+,No,No,133/89,166,71,1990011223,India,Maharashtra,Beed,Kauthali,431530,19.0581,75.8549,11,3,750,76
+Christopher Turner,31,Male,O-,Hypertension,Dogs,122/80,177,76,1001122334,India,Maharashtra,Beed,Kawadgaon,431122,19.0226,75.6145,23,12,3000,86
+Lucas Young,51,Female,A-,Hyperlipidemia,No,129/86,168,72,1112233445,India,Maharashtra,Beed,Kekat Pangri,431127,18.9182,75.7082,21,3,750,35
+Emily Turner,56,Male,B-,No,Mold,118/78,175,70,1223344556,India,Maharashtra,Beed,Kelsangvi,414208,18.9821,75.7125,23,2,500,26
+Ava Rodriguez,58,Female,AB-,Migraine,No,136/90,163,68,1334455667,India,Maharashtra,Beed,Kerul,414208,18.9821,75.7125,23,2,500,26
+Matthew Young,43,Male,O+,Depression,Pollen,125/83,170,73,1445566778,India,Maharashtra,Beed,Kesapuri Camp,431142,19.0012,75.7163,23,8,2000,64
+Sophie Turner,27,Female,A+,No,No,119/79,176,72,1556677889,India,Maharashtra,Beed,Khadkat,414203,18.9623,75.6624,16,3,750,50
+Benjamin Campbell,57,Male,B+,Anxiety,No,134/88,164,68,1667788990,India,Maharashtra,Beed,Khadkighat,431126,18.9493,75.6827,23,3,750,33
+Emma Turner,47,Female,AB+,Hypertension,Pollen,126/85,167,71,1778899001,India,Maharashtra,Beed,Khalapuri,414205,18.9371,75.6596,21,3,750,38
+Jonathan Rodriguez,54,Male,O-,No,Grass,131/87,163,69,1889900112,India,Maharashtra,Beed,Khalegaon,431130,18.8993,75.6315,23,2,500,28
+Lucy Young,59,Female,A-,Diabetes,Tree nuts,120/78,179,74,1990011223,India,Maharashtra,Beed,Khalwatnimgaon,431122,19.0226,75.6145,21,1,250,21
+Joshua Turner,17,Male,B-,Asthma,Dust mites,138/92,161,67,1001122334,India,Maharashtra,Beed,Khandvi,431127,18.9192,75.7003,21,1,250,21
+Aria Campbell,18,Female,AB-,Arthritis,No,128/84,169,73,1112233445,India,Maharashtra,Beed,Khilad,414208,18.9821,75.7125,21,1,250,21
+James Turner,19,Male,O+,No,Mold,117/77,182,75,1223344556,India,Nagaland,Dimapur,Agri College,797106,25.8894,93.7469,21,1,250,21
+Layla Rodriguez,20,Female,A+,Hypertension,Pollen,133/89,166,71,1334455667,India,Nagaland,Dimapur,Aoyimti,797115,25.8952,93.7261,21,1,250,21
+John Young,21,Male,B+,Hyperlipidemia,Peanuts,122/80,177,76,1445566778,India,Nagaland,Dimapur,Artc,797115,25.8952,93.7261,21,1,250,21
+Mia Turner,22,Female,AB+,Anemia,No,129/86,168,72,1556677889,India,Nagaland,Dimapur,Chumukedima,797103,25.8672,93.7054,21,1,250,21
+William Rodriguez,23,Male,O-,No,No,118/78,175,70,1667788990,India,Nagaland,Dimapur,Circular Road,797117,25.8649,93.7338,21,1,250,21
+Ella Campbell,24,Female,A-,No,Pollen,136/90,163,68,1778899001,India,Nagaland,Dimapur,Daroga Pathar,797115,25.8952,93.7261,21,1,250,21
+Daniel Turner,25,Male,B-,Diabetes,Peanuts,125/83,170,73,1889900112,India,Nagaland,Dimapur,Dimapur,797112,25.8982,93.7317,21,1,250,21
+Sophie Young,26,Female,AB-,Hypertension,Dust mites,119/79,176,72,1990011223,India,Nagaland,Dimapur,Dimapur Bazar,797116,25.8933,93.7313,21,1,250,21
+Benjamin Rodriguez,27,Male,O+,Asthma,Shellfish,134/88,164,68,1001122334,India,Nagaland,Dimapur,Diphupar,797115,25.8972,93.7542,21,1,250,21
+Emma Campbell,28,Male,A+,Arthritis,Cat dander,126/85,167,71,1112233445,India,Nagaland,Dimapur,Doyapur,797112,25.8979,93.7311,21,5,1250,60
+Andrew Turner,29,Female,B+,Depression,Penicillin,131/87,163,69,1223344556,India,Nagaland,Dimapur,Duncan Basti,797113,25.9101,93.7313,23,4,1000,45
+Mia Young,30,Female,AB+,No,No,120/78,179,74,1334455667,India,Nagaland,Dimapur,Eralibill,797115,25.8972,93.7542,21,4,1000,52
+Christopher Rodriguez,31,Male,O-,Hypertension,Pollen,138/92,161,67,1445566778,India,Nagaland,Dimapur,Hening Kunglwa,797112,25.8979,93.7311,22,1,250,22
+Lucas Campbell,32,Female,A-,Diabetes,No,128/84,169,73,1556677889,India,Nagaland,Dimapur,Industrial Estate,797113,25.9135,93.7473,11,2,500,70
+Emily Turner,33,Male,B-,No,Dogs,117/77,182,75,1667788990,India,Nagaland,Dimapur,Jalukiekam,797112,25.8979,93.7311,23,5,1250,58
+Ava Young,34,Female,AB-,Hyperlipidemia,No,133/89,166,71,1778899001,India,Nagaland,Dimapur,Jharnapani,797106,25.8724,93.7589,23,3,750,40
+Matthew Turner,35,Male,O+,Anemia,Mold,122/80,177,76,1889900112,India,Nagaland,Dimapur,Khaibung,797106,25.8724,93.7589,23,3,750,41
+Sophie Campbell,36,Female,A+,No,No,129/86,168,72,1990011223,India,Nagaland,Dimapur,Khehekhu,797116,25.8933,93.7313,14,3,750,83
+Benjamin Turner,37,Male,B+,Hypothyroidism,Pollen,118/78,175,70,1001122334,India,Nagaland,Dimapur,Khermahal,797112,25.8979,93.7311,21,2,500,35
+Emma Rodriguez,38,Female,AB+,Asthma,No,136/90,163,68,1112233445,India,Nagaland,Dimapur,Khopoanaula,797103,25.8649,93.7338,26,5,1250,49
+Jonathan Turner,39,Male,O-,Arthritis,No,125/83,170,73,1223344556,India,Nagaland,Dimapur,Kuda,797112,25.8979,93.7311,23,6,1500,70
+Lucy Campbell,40,Female,A-,No,Pollen,119/79,176,72,1334455667,India,Nagaland,Dimapur,Kuhuboto,797116,25.8933,93.7313,23,1,250,23
+Joshua Young,41,Male,B-,Hypertension,Grass,134/88,164,68,1445566778,India,Nagaland,Dimapur,Kushiabill,797116,25.8933,93.7313,23,1,250,23
+Aria Turner,42,Female,AB-,Diabetes,Tree nuts,126/85,167,71,1556677889,India,Nagaland,Dimapur,Lengrijan,797113,25.9101,93.7313,23,1,250,23
+James Campbell,43,Male,O+,No,Dust mites,131/87,163,69,1667788990,India,Nagaland,Dimapur,Maova,797106,25.8724,93.7589,23,1,250,23
+Layla Rodriguez,44,Female,A+,Hyperlipidemia,No,120/78,179,74,1778899001,India,Nagaland,Dimapur,Medziphema,797106,25.8724,93.7589,23,1,250,23
+John Turner,45,Male,B+,Asthma,Mold,138/92,161,67,1889900112,India,Nagaland,Dimapur,Moaikam,797103,25.8649,93.7338,23,1,250,23
+Mia Campbell,46,Female,AB+,Arthritis,Pollen,128/84,169,73,1990011223,India,Nagaland,Dimapur,Molvom,797106,25.8724,93.7589,23,1,250,23
+William Rodriguez,47,Male,O-,Anemia,Peanuts,117/77,182,75,1001122334,India,Nagaland,Dimapur,New Nepaligaon,797113,25.9101,93.7313,23,1,250,23
+Ella Turner,48,Female,A-,No,No,133/89,166,71,1112233445,India,Nagaland,Dimapur,Nihekhu,797103,25.8649,93.7338,23,4,1000,53
+Daniel Campbell,49,Male,B-,Hypothyroidism,No,122/80,177,76,1223344556,India,Nagaland,Dimapur,Nst Colony,797113,25.9101,93.7313,21,6,1500,86
+Sophie Rodriguez,50,Female,AB-,No,No,129/86,168,72,1334455667,India,Nagaland,Dimapur,Nuiland,797112,25.8979,93.7311,23,3,750,48
+Benjamin Turner,51,Male,O+,Diabetes,Pollen,118/78,175,70,1445566778,India,Nagaland,Dimapur,P C college,797103,25.8649,93.7338,21,2,500,41
+Emma Young,52,Male,A+,No,Pollen,136/90,163,68,1556677889,India,Nagaland,Dimapur,Padampukhuri,797116,25.8933,93.7313,21,3,750,64
+Andrew Rodriguez,53,Female,B+,No,Pollen,125/83,170,73,1667788990,India,Nagaland,Dimapur,Phaipijan,797112,25.8979,93.7311,16,2,500,70
+Mia Turner,54,Female,AB+,Hypertension,Shellfish,119/79,176,72,1778899001,India,Nagaland,Dimapur,Pherima,797106,25.8724,93.7589,21,3,750,70
+Christopher Campbell,55,Male,O-,Hyperlipidemia,No,134/88,164,68,1889900112,India,Nagaland,Dimapur,Pimla,797103,25.8649,93.7338,23,4,1000,87
+Lucas Rodriguez,56,Female,A-,No,Cat dander,126/85,167,71,1990011223,India,Nagaland,Dimapur,Piphima,797106,25.8724,93.7589,23,3,750,89
+Emily Turner,57,Male,B-,Migraine,No,131/87,163,69,1001122334,India,Nagaland,Dimapur,Punglwa,797106,25.8724,93.7589,23,2,500,87
+Ava Turner,58,Female,AB-,Depression,Penicillin,120/78,179,74,1112233445,India,Nagaland,Dimapur,Pwd Colony,797117,25.8649,93.7338,35,3,750,64
+Matthew Campbell,59,Male,O+,No,No,138/92,161,67,1223344556,India,Nagaland,Dimapur,Ralan,797112,25.8979,93.7311,38,1,250,38
+Sophie Young,60,Female,A+,Anxiety,Pollen,125/83,170,73,1098765432,India,Nagaland,Dimapur,Rangapahar,797117,25.8649,93.7338,38,1,250,38
+Benjamin Turner,18,Male,B+,Hypertension,No,123/80,179,76,1122334455,India,Nagaland,Dimapur,Razaphima,797112,25.8979,93.7311,40,1,250,40
+Emma Rodriguez,17,Female,AB+,No,Dogs,131/85,166,68,1234567890,India,Nagaland,Dimapur,Showba Old,797115,25.8952,93.7261,74,1,250,74
+Jonathan Young,59,Male,O-,Diabetes,No,119/78,174,72,2345678901,India,Nagaland,Dimapur,Singal Village,797117,25.8649,93.7338,2,43,10750,86
+Lucy Turner,20,Female,A-,Asthma,Mold,137/92,163,70,3456789012,India,Nagaland,Dimapur,Singrijan,797112,25.8979,93.7311,6,22,5500,28
+Joshua Rodriguez,21,Male,B-,Arthritis,No,126/83,167,74,4567890123,India,Nagaland,Dimapur,Sirhima,797106,25.8724,93.7589,2,34,8500,77
+Aria Turner,23,Female,AB-,No,Pollen,114/75,178,71,5678901234,India,Nagaland,Dimapur,Suger Mill,797115,25.8952,93.7261,2,44,11000,98
+James Young,25,Male,O+,Hypertension,No,133/87,165,69,6789012345,India,Nagaland,Dimapur,Sukhovi,797115,25.8952,93.7261,0,26,6500,76
+Layla Campbell,26,Female,A+,Hyperlipidemia,No,121/79,177,73,7890123456,India,Nagaland,Dimapur,Tenyiphe,797103,25.8649,93.7338,2,41,10250,98
+John Rodriguez,27,Male,B+,Anemia,Pollen,129/84,164,68,8901234567,India,Nagaland,Dimapur,Thahekhu,797117,25.8649,93.7338,3,21,5250,42
+Mia Young,29,Female,AB+,No,Grass,118/78,173,70,9012345678,India,Nagaland,Dimapur,Vihokhu,797116,25.8933,93.7313,2,11,2750,23
+William Turner,30,Male,O-,No,Tree nuts,136/90,162,66,9876543210,India,Nagaland,Dimapur,Yampha,797112,25.8979,93.7311,2,21,5250,52
+Ella Rodriguez,31,Female,A-,Diabetes,Dust mites,125/82,171,75,8765432109,India,Nagaland,Dimapur,Zeliangrong,797117,25.8649,93.7338,2,13,3250,32
+Daniel Turner,32,Male,B-,Hypertension,No,117/77,180,74,7654321098,India,Nagaland,Kiphire,Amahatore,798611,25.9039,94.1598,4,4,1000,4
+Sophie Campbell,33,Female,AB-,Asthma,Mold,134/88,163,68,6543210987,India,Nagaland,Kiphire,Anatongere,798611,25.9039,94.1598,2,11,2750,26
+Benjamin Rodriguez,34,Male,O+,Arthritis,Pollen,122/80,178,75,5432109876,India,Nagaland,Kiphire,Kiphire,798611,25.9039,94.1598,2,11,2750,28
+Emma Turner,35,Male,A+,Depression,Peanuts,130/86,164,70,4321098765,India,Nagaland,Kiphire,Kisethong,798611,25.9039,94.1598,3,14,3500,35
+Andrew Campbell,36,Female,B+,No,No,119/79,176,72,3210987654,India,Nagaland,Kiphire,Longmatra,798611,25.9039,94.1598,4,16,4000,38
+Mia Rodriguez,37,Female,AB+,Hypertension,No,137/91,161,70,2109876543,India,Nagaland,Kiphire,Moya,798611,25.9039,94.1598,4,6,1500,14
+Christopher Turner,38,Male,O-,Diabetes,No,126/84,169,74,1098765432,India,Nagaland,Kiphire,Phalonger,798611,25.9039,94.1598,3,5,1250,12
+Lucas Campbell,39,Female,A-,No,Pollen,118/78,180,74,987654321,India,Nagaland,Kiphire,Pokhpur,798611,25.9039,94.1598,4,33,8250,98
+Emily Rodriguez,40,Male,B-,Hyperlipidemia,Pollen,134/88,164,68,9876543210,India,Nagaland,Kiphire,Pungro,798611,25.9039,94.1598,3,10,2500,33
+Ava Turner,41,Female,AB-,Anemia,Pollen,121/80,178,75,8765432109,India,Nagaland,Kiphire,Seyochang,798611,25.9039,94.1598,4,10,2500,28
+Matthew Campbell,42,Male,O+,No,Shellfish,129/85,166,72,7654321098,India,Nagaland,Kiphire,Sikur,798611,25.9039,94.1598,2,11,2750,40
+Sophie Rodriguez,43,Female,A+,Hypothyroidism,No,137/91,161,70,6543210987,India,Nagaland,Kiphire,Singrup,798611,25.9039,94.1598,2,11,2750,41
+Benjamin Turner,44,Male,B+,Asthma,Cat dander,126/84,168,74,5432109876,India,Nagaland,Kiphire,Sitimi,798611,25.9039,94.1598,4,13,3250,39
+Emma Young,45,Female,AB+,Arthritis,No,119/79,174,75,4321098765,India,Nagaland,Kohima,Asukika,797109,25.8649,93.7338,1,10,2500,43
+Jonathan Rodriguez,46,Male,O-,No,Penicillin,132/87,175,77,3210987654,India,Nagaland,Kohima,Botsa,797105,25.8974,94.1924,4,9,2250,28
+Lucy Campbell,47,Female,A-,Hypertension,No,123/80,176,72,2109876543,India,Nagaland,Kohima,Chakhabama,797003,25.8649,93.7338,2,4,1000,11
+Joshua Turner,48,Male,B-,Diabetes,Pollen,130/85,160,65,1098765432,India,Nagaland,Kohima,Chatashi,797109,25.8649,93.7338,2,5,1250,16
+Aria Rodriguez,49,Female,AB-,No,No,110/70,180,80,1098765432,India,Nagaland,Kohima,Chedema,797003,25.8649,93.7338,2,15,3750,64
+James Campbell,50,Male,O+,Hyperlipidemia,Dogs,140/90,165,55,1098765432,India,Nagaland,Kohima,Chiechama,797105,25.8974,94.1924,5,24,6000,79
+Layla Turner,51,Female,A+,Asthma,No,125/82,170,75,1098765432,India,Nagaland,Kohima,Chiephobozou,797105,25.8974,94.1924,2,6,1500,22
+John Rodriguez,52,Male,B+,Arthritis,Mold,115/75,172,68,1098765432,India,Nagaland,Kohima,Ciesema,797003,25.8649,93.7338,4,5,1250,16
+Mia Young,53,Female,AB+,Anemia,No,135/88,168,72,1098765432,India,Nagaland,Kohima,Dihoma,797003,25.8649,93.7338,2,4,1000,14
+William Campbell,54,Male,O-,No,Pollen,122/81,163,69,1098765432,India,Nagaland,Kohima,Ghathashi,797109,25.8649,93.7338,4,8,2000,28
+Ella Turner,55,Female,A-,Hypothyroidism,No,128/84,176,76,1098765432,India,Nagaland,Kohima,Jakhama,797005,25.8974,94.1924,2,4,1000,14
+Daniel Rodriguez,56,Male,B-,No,No,118/79,171,74,1098765432,India,Nagaland,Kohima,Jotsoma,797002,25.8649,93.7338,2,6,1500,26
+Sophie Young,57,Female,AB-,Diabetes,Pollen,132/87,158,63,1098765432,India,Nagaland,Kohima,Kedima,797003,25.8649,93.7338,4,5,1250,16
+Benjamin Turner,58,Male,O+,No,Grass,112/73,183,82,1098765432,India,Nagaland,Kohima,Khonoma,797002,25.8649,93.7338,2,7,1750,32
+Emma Rodriguez,19,Male,A+,No,Tree nuts,138/91,167,71,1098765432,India,Nagaland,Kohima,Khuzama,797005,25.8974,94.1924,2,6,1500,26
+Andrew Turner,22,Female,B+,Hypertension,Dust mites,126/83,174,77,1098765432,India,Nagaland,Kohima,Kigwema,797005,25.8974,94.1924,2,8,2000,38
+Mia Young,24,Female,AB+,Hyperlipidemia,No,117/76,179,79,1098765432,India,Nagaland,Kohima,Kizocha,797003,25.8649,93.7338,2,2,500,4
+Christopher Rodriguez,28,Male,O-,No,Mold,129/85,165,68,1098765432,India,Nagaland,Kohima,Kohima,797001,25.8649,93.7338,2,6,1500,28
+Lucas Turner,60,Female,A-,Migraine,Pollen,134/89,161,67,1098765432,India,Nagaland,Kohima,Kohima Pwd,797005,25.8974,94.1924,2,10,2500,52
+Emily Campbell,58,Male,B-,Depression,Peanuts,121/79,173,73,1098765432,India,Nagaland,Kohima,Kohima Science college,797002,25.8974,94.1924,4,16,4000,70
+Ava Rodriguez,20,Female,AB-,No,No,137/90,166,70,1098765432,India,Nagaland,Kohima,Kohima Village,797003,25.8649,93.7338,4,2,500,4
+Matthew Young,26,Male,O+,Anxiety,No,123/81,169,72,1098765432,India,Nagaland,Kohima,Kontsunyu,797109,25.8649,93.7338,1,14,3500,95
+Sophie Turner,29,Female,A+,Hypertension,No,131/86,164,69,1098765432,India,Nagaland,Kohima,Lalmati,797005,25.8974,94.1924,4,2,500,4
+Benjamin Turner,33,Male,B+,No,Pollen,119/78,177,75,1098765432,India,Nagaland,Kohima,Lazami,797109,25.8649,93.7338,7,14,3500,48
+Emma Campbell,35,Female,AB+,Diabetes,Pollen,136/89,162,66,1098765432,India,Nagaland,Kohima,Mezoma,797002,25.8974,94.1924,2,3,750,11
+Jonathan Rodriguez,38,Male,O-,Asthma,Pollen,124/82,175,74,1098765432,India,Nagaland,Kohima,Mima,797005,25.8649,93.7338,2,12,3000,70
+Lucy Young,41,Female,A-,Arthritis,Shellfish,116/77,180,76,1098765432,India,Nagaland,Kohima,Mishilimi,797105,25.8974,94.1924,4,7,1750,32
+Joshua Turner,44,Male,B-,No,No,127/84,168,70,1098765432,India,Nagaland,Kohima,Monkhola,797001,25.8649,93.7338,4,4,1000,16
+Aria Campbell,47,Female,AB-,Hypertension,Cat dander,133/88,163,68,1098765432,India,Nagaland,Kohima,N.E.h.u.,797004,25.8974,94.1924,2,6,1500,35
+James Turner,49,Male,O+,Hyperlipidemia,No,120/79,176,72,1098765432,India,Nagaland,Kohima,New Sectt complex,797004,25.8974,94.1924,4,6,1500,28
+Layla Rodriguez,51,Female,A+,Anemia,Penicillin,138/91,170,77,1098765432,India,Nagaland,Kohima,Nisenyu,797109,25.8649,93.7338,2,3,750,14
+John Young,53,Male,B+,No,No,122/80,181,80,1098765432,India,Nagaland,Dimapur,Agri College,797106,25.8894,93.7469,2,4,1000,23
+Mia Turner,55,Female,AB+,No,Pollen,130/86,166,70,1098765432,India,Nagaland,Dimapur,Aoyimti,797115,25.8952,93.7261,4,4,1000,18
+William Rodriguez,57,Male,O-,Diabetes,No,118/78,172,75,1098765432,India,Nagaland,Dimapur,Artc,797115,25.8952,93.7261,5,6,1500,28
+Ella Campbell,59,Female,A-,Hypertension,Dogs,135/89,159,64,1098765432,India,Nagaland,Dimapur,Chumukedima,797103,25.8672,93.7054,4,6,1500,30
+Daniel Turner,21,Male,B-,Asthma,No,123/81,170,73,1098765432,India,Nagaland,Dimapur,Circular Road,797117,25.8649,93.7338,14,5,1250,14
+Sophie Young,25,Female,AB-,Arthritis,Mold,131/87,165,71,1098765432,India,Nagaland,Dimapur,Daroga Pathar,797115,25.8952,93.7261,3,8,2000,50
+Benjamin Rodriguez,30,Male,O+,Depression,No,119/79,178,78,1098765432,India,Nagaland,Dimapur,Dimapur,797112,25.8982,93.7317,4,11,2750,64
+Emma Turner,32,Male,A+,No,Pollen,136/90,164,70,1098765432,India,Nagaland,Dimapur,Dimapur Bazar,797116,25.8933,93.7313,4,9,2250,52
+Andrew Rodriguez,36,Female,B+,Hypertension,No,124/82,174,76,1098765432,India,Nagaland,Dimapur,Diphupar,797115,25.8972,93.7542,4,16,4000,98
+Mia Perez,39,Female,AB+,Diabetes,No,117/77,179,73,1098765432,India,Nagaland,Dimapur,Doyapur,797112,25.8979,93.7311,7,10,2500,47
+Christopher Turner,42,Male,O-,No,Pollen,125/83,169,72,1098765432,India,Nagaland,Dimapur,Duncan Basti,797113,25.9101,93.7313,4,14,3500,86
+Lucas Young,45,Female,A-,Hyperlipidemia,Grass,137/91,162,67,1098765432,India,Nagaland,Dimapur,Eralibill,797115,25.8972,93.7542,2,9,2250,75
+Emily Turner,48,Male,B-,Anemia,Tree nuts,126/84,167,70,1098765432,India,Nagaland,Dimapur,Hening Kunglwa,797112,25.8979,93.7311,4,6,1500,35
+Ava Rodriguez,50,Female,AB-,No,Dust mites,118/78,180,74,1098765432,India,Nagaland,Dimapur,Industrial Estate,797113,25.9135,93.7473,4,9,2250,55
+Matthew Young,52,Male,O+,Hypothyroidism,No,134/88,163,68,1098765432,India,Nagaland,Dimapur,Jalukiekam,797112,25.8979,93.7311,4,6,1500,35
+Sophie Turner,54,Female,A+,Asthma,Mold,121/80,177,75,1098765432,India,Nagaland,Dimapur,Jharnapani,797106,25.8724,93.7589,2,6,1500,45
+Benjamin Campbell,56,Male,B+,Arthritis,Pollen,129/86,164,70,1098765432,India,Nagaland,Dimapur,Khaibung,797106,25.8724,93.7589,2,6,1500,47
+Emma Turner,17,Female,AB+,No,Peanuts,116/76,172,73,1098765432,India,Nagaland,Dimapur,Khehekhu,797116,25.8933,93.7313,4,2,500,9
+Jonathan Rodriguez,18,Male,O-,Hypertension,No,133/89,160,65,1098765432,India,Nagaland,Dimapur,Khermahal,797112,25.8979,93.7311,2,2,500,11
+Lucy Young,19,Female,A-,Diabetes,No,120/79,175,71,1098765432,India,Nagaland,Dimapur,Khopoanaula,797103,25.8649,93.7338,2,2,500,11
+Joshua Turner,20,Male,B-,No,No,138/91,168,76,1098765432,India,Nagaland,Dimapur,Kuda,797112,25.8979,93.7311,2,2,500,11
+Aria Campbell,21,Female,AB-,Hyperlipidemia,Pollen,127/84,171,75,1098765432,India,Nagaland,Dimapur,Kuhuboto,797116,25.8933,93.7313,4,6,1500,38
+James Turner,22,Male,O+,Asthma,Pollen,115/76,178,72,1098765432,India,Nagaland,Dimapur,Kushiabill,797116,25.8933,93.7313,3,4,1000,29
+Layla Rodriguez,23,Female,A+,Arthritis,Pollen,132/87,166,68,1098765432,India,Nagaland,Dimapur,Lengrijan,797113,25.9101,93.7313,9,9,2250,38
+John Young,24,Male,B+,Anemia,Shellfish,119/78,179,74,1098765432,India,Nagaland,Dimapur,Maova,797106,25.8724,93.7589,11,5,1250,18
+Mia Turner,25,Female,AB+,No,No,136/90,163,70,1098765432,India,Nagaland,Dimapur,Medziphema,797106,25.8724,93.7589,2,3,750,21
+William Rodriguez,26,Male,O-,Hypothyroidism,Cat dander,124/82,173,77,1098765432,India,Nagaland,Dimapur,Moaikam,797103,25.8649,93.7338,2,1,250,2
+Ella Campbell,27,Female,A-,No,No,117/77,181,75,1098765432,India,Nagaland,Dimapur,Molvom,797106,25.8724,93.7589,2,1,250,2
+Daniel Turner,28,Male,B-,Diabetes,Penicillin,135/89,165,69,1098765432,India,Nagaland,Dimapur,New Nepaligaon,797113,25.9101,93.7313,2,1,250,2
+Sophie Young,29,Female,AB-,No,No,122/81,176,74,1098765432,India,Nagaland,Dimapur,Nihekhu,797103,25.8649,93.7338,2,1,250,2
+Benjamin Rodriguez,30,Male,O+,No,Pollen,130/86,162,68,1098765432,India,Nagaland,Dimapur,Nst Colony,797113,25.9101,93.7313,2,1,250,2
+Emma Campbell,31,Male,A+,Hypertension,No,118/78,173,70,1098765432,India,Nagaland,Dimapur,Nuiland,797112,25.8979,93.7311,2,1,250,2
+Andrew Turner,32,Female,B+,Hyperlipidemia,Dogs,137/90,167,75,1098765432,India,Nagaland,Dimapur,P C college,797103,25.8649,93.7338,2,1,250,2
+Mia Young,33,Female,AB+,No,No,125/83,170,73,1098765432,India,Nagaland,Dimapur,Padampukhuri,797116,25.8933,93.7313,2,1,250,2
+Christopher Rodriguez,34,Male,O-,Migraine,Mold,116/76,180,71,1098765432,India,Nagaland,Dimapur,Phaipijan,797112,25.8979,93.7311,2,1,250,2
+Lucas Campbell,35,Female,A-,Depression,No,134/88,164,68,1098765432,India,Nagaland,Dimapur,Pherima,797106,25.8724,93.7589,2,1,250,2
+Emily Turner,36,Male,B-,No,Pollen,121/80,178,75,1098765432,India,Nagaland,Dimapur,Pimla,797103,25.8649,93.7338,2,1,250,2
+Ava Young,37,Female,AB-,Anxiety,No,129/85,166,72,1098765432,India,Nagaland,Dimapur,Piphima,797106,25.8724,93.7589,11,11,2750,38
+Matthew Turner,38,Male,O+,Hypertension,No,137/91,161,70,1098765432,India,Nagaland,Dimapur,Punglwa,797106,25.8724,93.7589,2,3,750,22
+Sophie Campbell,39,Female,A+,No,Pollen,126/84,168,74,1098765432,India,Nagaland,Dimapur,Pwd Colony,797117,25.8649,93.7338,9,11,2750,49
+Benjamin Turner,40,Male,B+,Diabetes,Grass,119/79,174,75,1098765432,India,Nagaland,Dimapur,Ralan,797112,25.8979,93.7311,5,11,2750,75
+Emma Rodriguez,41,Female,AB+,Asthma,Tree nuts,132/87,175,77,1098765432,India,Nagaland,Dimapur,Rangapahar,797117,25.8649,93.7338,3,5,1250,38
+Jonathan Turner,42,Male,O-,Arthritis,Dust mites,123/80,176,72,1098765432,India,Nagaland,Dimapur,Razaphima,797112,25.8979,93.7311,3,1,250,3
+Lucy Campbell,43,Female,A-,No,No,130/85,160,65,1098765432,India,Nagaland,Dimapur,Showba Old,797115,25.8952,93.7261,4,6,1500,43
+Joshua Young,44,Male,B-,Hypertension,Mold,110/70,180,80,1098765432,India,Nagaland,Dimapur,Singal Village,797117,25.8649,93.7338,2,3,750,24
+Aria Turner,45,Female,AB-,Hyperlipidemia,Pollen,140/90,165,55,1098765432,India,Nagaland,Dimapur,Singrijan,797112,25.8979,93.7311,12,11,2750,39
+James Campbell,46,Male,O+,Anemia,Peanuts,125/82,170,75,1098765432,India,Nagaland,Dimapur,Sirhima,797106,25.8724,93.7589,2,2,500,14
+Layla Rodriguez,47,Female,A+,No,No,115/75,172,68,1098765432,India,Nagaland,Dimapur,Suger Mill,797115,25.8952,93.7261,4,6,1500,46
+John Turner,48,Male,B+,No,No,135/88,168,72,1098765432,India,Nagaland,Dimapur,Sukhovi,797115,25.8952,93.7261,9,3,750,14
+Mia Campbell,49,Female,AB+,Diabetes,No,122/81,163,69,1098765432,India,Nagaland,Dimapur,Tenyiphe,797103,25.8649,93.7338,14,8,2000,26
+William Rodriguez,50,Male,O-,Hypertension,Pollen,128/84,176,76,1098765432,India,Nagaland,Dimapur,Thahekhu,797117,25.8649,93.7338,4,2,500,13
+Ella Turner,51,Female,A-,Asthma,Pollen,118/79,171,74,1098765432,India,Nagaland,Dimapur,Vihokhu,797116,25.8933,93.7313,4,11,2750,95
+Daniel Campbell,52,Male,B-,Arthritis,Pollen,132/87,158,63,1098765432,India,Nagaland,Dimapur,Yampha,797112,25.8979,93.7311,2,7,1750,77
+Sophie Rodriguez,53,Female,AB-,Depression,Shellfish,112/73,183,82,1098765432,India,Nagaland,Dimapur,Zeliangrong,797117,25.8649,93.7338,2,7,1750,77
+Benjamin Turner,54,Male,O+,No,No,138/91,167,71,1098765432,India,Nagaland,Kiphire,Amahatore,798611,25.9039,94.1598,4,1,250,4
+Emma Young,55,Male,A+,Hypertension,Cat dander,126/83,174,77,1098765432,India,Nagaland,Kiphire,Anatongere,798611,25.9039,94.1598,4,1,250,4
+Andrew Rodriguez,56,Female,B+,Diabetes,No,117/76,179,79,1098765432,India,Nagaland,Kiphire,Kiphire,798611,25.9039,94.1598,4,1,250,4
+Mia Turner,57,Female,AB+,No,Penicillin,129/85,165,68,1098765432,India,Nagaland,Kiphire,Kisethong,798611,25.9039,94.1598,4,1,250,4
+Christopher Campbell,58,Male,O-,Hyperlipidemia,No,134/89,161,67,1098765432,India,Nagaland,Kiphire,Longmatra,798611,25.9039,94.1598,4,1,250,4
+Lucas Rodriguez,59,Female,A-,Anemia,Pollen,121/79,173,73,1098765432,India,Nagaland,Kiphire,Moya,798611,25.9039,94.1598,4,1,250,4
+Emily Turner,60,Male,B-,No,No,137/90,166,70,1098765432,India,Nagaland,Kiphire,Phalonger,798611,25.9039,94.1598,4,1,250,4
+Ava Turner,20,Female,AB-,Hypothyroidism,Dogs,123/81,169,72,1098765432,India,Nagaland,Kiphire,Pokhpur,798611,25.9039,94.1598,4,1,250,4
+Matthew Campbell,18,Male,O+,Asthma,No,131/86,164,69,1098765432,India,Nagaland,Kiphire,Pungro,798611,25.9039,94.1598,4,1,250,4
+Sophie Young,19,Female,A+,Arthritis,Mold,119/78,177,75,1098765432,India,Nagaland,Kiphire,Seyochang,798611,25.9039,94.1598,4,1,250,4
+Benjamin Turner,23,Male,B+,No,No,136/89,162,66,1098765432,India,Nagaland,Kiphire,Sikur,798611,25.9039,94.1598,4,1,250,4
+Emma Rodriguez,24,Female,AB+,Hypertension,Pollen,124/82,175,74,1098765432,India,Nagaland,Kiphire,Singrup,798611,25.9039,94.1598,4,1,250,4
+Jonathan Young,25,Male,O-,Diabetes,No,116/77,180,76,1098765432,India,Nagaland,Kiphire,Sitimi,798611,25.9039,94.1598,4,7,1750,62
+Lucy Turner,26,Female,A-,No,No,127/84,168,70,1098765432,India,Nagaland,Kohima,Asukika,797109,25.8649,93.7338,4,1,250,4
+Joshua Rodriguez,27,Male,B-,Hyperlipidemia,Pollen,133/88,163,68,1098765432,India,Nagaland,Kohima,Botsa,797105,25.8974,94.1924,4,4,1000,34
+Aria Turner,28,Female,AB-,Asthma,Grass,120/79,176,72,1098765432,India,Nagaland,Kohima,Chakhabama,797003,25.8649,93.7338,11,6,1500,28
+James Young,29,Male,O+,Arthritis,Tree nuts,138/91,170,77,1098765432,India,Nagaland,Kohima,Chatashi,797109,25.8649,93.7338,13,3,750,14
+Layla Campbell,30,Female,A+,Anemia,Dust mites,122/80,181,80,1098765432,India,Nagaland,Kohima,Chedema,797003,25.8649,93.7338,7,5,1250,35
+John Rodriguez,31,Male,B+,No,No,130/86,166,70,1098765432,India,Nagaland,Kohima,Chiechama,797105,25.8974,94.1924,9,9,2250,54
+Mia Young,32,Female,AB+,Hypothyroidism,Mold,118/78,172,75,1098765432,India,Nagaland,Kohima,Chiephobozou,797105,25.8974,94.1924,11,2,500,11
+William Turner,33,Male,O-,No,Pollen,135/89,159,64,1098765432,India,Nagaland,Kohima,Ciesema,797003,25.8649,93.7338,2,5,1250,63
+Ella Rodriguez,34,Female,A-,Diabetes,Peanuts,123/81,170,73,1098765432,India,Nagaland,Kohima,Dihoma,797003,25.8649,93.7338,7,11,2750,89
+Daniel Turner,35,Male,B-,No,No,131/87,165,71,1098765432,India,Nagaland,Kohima,Ghathashi,797109,25.8649,93.7338,8,9,2250,64
+Sophie Campbell,36,Female,AB-,No,No,119/79,178,78,1098765432,India,Nagaland,Kohima,Jakhama,797005,25.8974,94.1924,2,2,500,22
+Benjamin Rodriguez,37,Male,O+,Hypertension,No,136/90,164,70,1098765432,India,Nagaland,Kohima,Jotsoma,797002,25.8649,93.7338,6,3,750,26
+Emma Turner,38,Male,A+,Hyperlipidemia,Pollen,124/82,174,76,1098765432,India,Nagaland,Kohima,Kedima,797003,25.8649,93.7338,12,15,3750,71
+Andrew Campbell,39,Female,B+,No,Pollen,117/77,179,73,1098765432,India,Nagaland,Kohima,Khonoma,797002,25.8649,93.7338,13,3,750,16
+Mia Rodriguez,40,Female,AB+,Migraine,Pollen,125/83,169,72,1098765432,India,Nagaland,Kohima,Khuzama,797005,25.8974,94.1924,11,16,4000,89
+Christopher Turner,41,Male,O-,Depression,Shellfish,137/91,162,67,1098765432,India,Nagaland,Kohima,Kigwema,797005,25.8974,94.1924,4,5,1250,58
+Lucas Campbell,42,Female,A-,No,No,126/84,167,70,1098765432,India,Nagaland,Kohima,Kizocha,797003,25.8649,93.7338,14,7,1750,35
+Emily Rodriguez,43,Male,B-,Anxiety,Cat dander,118/78,180,74,1098765432,India,Nagaland,Kohima,Kohima,797001,25.8649,93.7338,11,4,1000,27
+Ava Turner,44,Female,AB-,Hypertension,No,134/88,163,68,1098765432,India,Nagaland,Kohima,Kohima Pwd,797005,25.8974,94.1924,7,9,2250,89
+Matthew Campbell,45,Male,O+,No,Penicillin,121/80,177,75,1098765432,India,Nagaland,Kohima,Kohima Science college,797002,25.8974,94.1924,11,8,2000,52
+Sophie Rodriguez,46,Female,A+,Diabetes,No,129/86,164,70,1098765432,India,Nagaland,Kohima,Kohima Village,797003,25.8649,93.7338,7,5,1250,52
+Benjamin Turner,47,Male,B+,Asthma,Pollen,116/76,172,73,1098765432,India,Nagaland,Kohima,Kontsunyu,797109,25.8649,93.7338,11,6,1500,41
+Emma Young,48,Female,AB+,Arthritis,No,133/89,160,65,1098765432,India,Nagaland,Kohima,Lalmati,797005,25.8974,94.1924,10,5,1250,38
+Jonathan Rodriguez,49,Male,O-,No,Dogs,120/79,175,71,1098765432,India,Nagaland,Kohima,Lazami,797109,25.8649,93.7338,14,2,500,14
+Lucy Campbell,50,Female,A-,Hypertension,No,138/91,168,76,1098765432,India,Nagaland,Kohima,Mezoma,797002,25.8974,94.1924,14,2,500,14
+Joshua Turner,51,Male,B-,Hyperlipidemia,Mold,127/84,171,75,1098765432,India,Nagaland,Kohima,Mima,797005,25.8649,93.7338,14,2,500,14
+Aria Rodriguez,52,Female,AB-,Anemia,No,115/76,178,72,1098765432,India,Nagaland,Kohima,Mishilimi,797105,25.8974,94.1924,2,2,500,33
+James Campbell,53,Male,O+,No,Pollen,132/87,166,68,1098765432,India,Nagaland,Kohima,Monkhola,797001,25.8649,93.7338,11,3,750,23
+Layla Turner,54,Female,A+,No,No,119/78,179,74,1098765432,India,Nagaland,Kohima,N.E.h.u.,797004,25.8974,94.1924,14,8,2000,46
+John Rodriguez,55,Male,B+,Diabetes,No,136/90,163,70,1098765432,India,Nagaland,Kohima,New Sectt complex,797004,25.8974,94.1924,9,1,250,9
+Mia Young,56,Female,AB+,Hypertension,Pollen,124/82,173,77,1098765432,India,Nagaland,Kohima,Nisenyu,797109,25.8649,93.7338,16,5,1250,27
+William Campbell,57,Male,O-,Asthma,Grass,117/77,181,75,1098765432,India,Tamil nadu,Vellore,Abdullapuram,632010,12.9204,79.1332,14,4,1000,26
+Ella Turner,58,Female,A-,Arthritis,Tree nuts,135/89,165,69,1098765432,India,Tamil nadu,Sivaganga,Abiramam,623601,9.8885,78.4528,4,2,500,30
+Daniel Rodriguez,59,Male,B-,Depression,Dust mites,122/81,176,74,1098765432,India,Tamil nadu,Chennai,Abiramapuram,600018,13.0336,80.2586,14,3,750,21
+Sophie Young,60,Female,AB-,No,No,130/86,162,68,1098765432,India,Tamil nadu,Thanjavur,Abiviethiswaram,613706,10.8851,79.1485,16,16,4000,77
+Benjamin Turner,17,Male,O+,Hypertension,Mold,118/78,173,70,1098765432,India,Tamil nadu,Cuddalore,Achalpuram,609101,11.7127,79.7424,4,2,500,31
+Emma Rodriguez,22,Male,A+,Diabetes,Pollen,137/90,167,75,1098765432,India,Tamil nadu,Tirunelveli,Achanputhur,627801,8.6904,77.9069,14,8,2000,50
+Andrew Turner,21,Female,B+,No,Peanuts,125/83,170,73,1098765432,India,Tamil nadu,Tiruvallur,Acharapakkam,603301,12.4097,79.9853,11,3,750,26
+Mia Young,20,Female,AB+,Hyperlipidemia,No,116/76,180,71,1098765432,India,Tamil nadu,Tiruvallur,Acharapakkam West,603301,12.4097,79.9853,14,7,1750,45
+Christopher Rodriguez,25,Male,O-,Anemia,No,134/88,164,68,1098765432,India,Tamil nadu,Ramanathapuram,Achunthanvayal,623502,9.4383,78.6758,15,5,1250,33
+Lucas Turner,23,Female,A-,No,No,121/80,178,75,1098765432,India,Tamil nadu,Tirunelveli,Adaikalapuram,628217,8.9425,77.9655,16,2,500,16
+Emily Campbell,24,Male,B-,Hypothyroidism,Pollen,129/85,166,72,1098765432,India,Tamil nadu,Thanjavur,Adaikkamangalam,611101,10.6973,79.3775,16,3,750,21
+Ava Rodriguez,26,Male,AB-,Asthma,Pollen,137/91,161,70,1098765432,India,Tamil nadu,Vellore,Adamangalam,606901,13.1702,80.1223,11,8,2000,72
+Matthew Young,27,Female,O+,Arthritis,Pollen,126/84,168,74,1098765432,India,Tamil nadu,Thanjavur,Adambai,614639,10.9883,79.3518,11,1,250,11
+Sophie Turner,28,Male,A+,No,Shellfish,119/79,174,75,1098765432,India,Tamil nadu,Chennai,Adambakkam,600088,12.982,80.2044,11,1,250,11
+Benjamin Turner,29,Male,B+,Hypertension,No,132/87,175,77,1098765432,India,Tamil nadu,Thanjavur,Adanur Pattukkottai,614734,10.5278,79.3609,11,1,250,11
+Emma Campbell,30,Female,AB+,Diabetes,Cat dander,123/80,176,72,1098765432,India,Tamil nadu,Pudukottai,Addanakottai,622210,10.6705,78.9322,11,1,250,11
+Jonathan Rodriguez,31,Male,O-,No,No,130/85,160,65,1098765432,India,Tamil nadu,Thanjavur,Adichapuram,614717,10.8971,79.3443,11,1,250,11
+Lucy Young,32,Male,A-,Hyperlipidemia,Penicillin,110/70,180,80,1098765432,India,Tamil nadu,Thanjavur,Adirampattinam,614701,9.6595,79.4199,2,3,750,75
+Joshua Turner,33,Female,B-,Asthma,No,140/90,165,55,1098765432,India,Tamil nadu,Thanjavur,Adirampattinam Town,614701,9.6595,79.4199,2,3,750,77
+Aria Campbell,34,Male,AB-,Arthritis,Pollen,125/82,170,75,1098765432,India,Tamil nadu,Sivaganga,Adiyur,635655,10.2112,78.0801,16,4,1000,28
+James Turner,35,Male,O+,Anemia,No,115/75,172,68,1098765432,India,Tamil nadu,Tiruchirappalli,Administrative Office Bhel,620014,10.8116,78.7079,16,15,3750,87
+Layla Rodriguez,36,Female,A+,No,Dogs,135/88,168,72,1098765432,India,Tamil nadu,Perambalur,Aduthurai,612101,11.0155,79.4853,16,14,3500,83
+John Young,37,Male,B+,Hypothyroidism,No,122/81,163,69,1098765432,India,Tamil nadu,Chennai,Adyar,600020,13.0033,80.2518,16,10,2500,62
+Mia Turner,38,Male,AB+,No,Mold,128/84,176,76,1098765432,India,Tamil nadu,Chennai,Agaram,600082,12.7436,78.1264,16,3,750,23
+William Rodriguez,39,Female,O-,Diabetes,No,118/79,171,74,1098765432,India,Tamil nadu,Dharmapuri,Agaram,635816,12.2449,78.7989,14,3,750,26
+Ella Campbell,40,Male,A-,No,Pollen,132/87,158,63,1098765432,India,Tamil nadu,Dharmapuri,Agaramcherry,635826,8.0861,77.5482,23,19,4750,62
+Daniel Turner,41,Male,B-,No,No,112/73,183,82,1098765432,India,Tamil nadu,Kanyakumari,Agasteeswaram,629701,12.7193,78.4939,11,7,1750,75
+Sophie Young,42,Female,AB-,Hypertension,No,138/91,167,71,1098765432,India,Tamil nadu,Vellore,Agraharam,635129,11.3086,78.0815,14,3,750,28
+Benjamin Rodriguez,43,Male,O+,Hyperlipidemia,Pollen,126/83,174,77,1098765432,India,Tamil nadu,Vellore,Agraharam,636001,11.6382,77.4655,20,14,3500,69
+Emma Turner,44,Male,A+,No,Grass,117/76,179,79,1098765432,India,Tamil nadu,Vellore,Agraharam,638008,9.9763,77.8948,4,2,500,46
+Andrew Rodriguez,45,Female,B+,Migraine,Tree nuts,129/85,165,68,1098765432,India,Tamil nadu,Dindigul,Ahtoor,624701,11.3709,77.1047,11,2,500,25
+Mia Perez,46,Male,AB+,Depression,Dust mites,134/89,161,67,1098765432,India,Tamil nadu,Coimbatore,Akilandapuram,642052,8.9505,77.6846,11,3,750,37
+Christopher Turner,47,Male,O-,No,No,121/79,173,73,1098765432,India,Tamil nadu,Tirunelveli,Akkanaickenpatti,628309,9.8736,78.0734,16,4,1000,33
+Lucas Young,48,Female,A-,Anxiety,Mold,137/90,166,70,1098765432,India,Tamil nadu,Madurai,Akkaraisengapalli,641304,11.0983,79.1084,21,7,1750,38
+Emily Turner,49,Male,B-,Hypertension,Pollen,123/81,169,72,1098765432,India,Tamil nadu,Thanjavur,Akkur,609301,12.4855,79.2209,13,7,1750,76
+Ava Rodriguez,50,Male,AB-,No,Peanuts,131/86,164,69,1098765432,India,Tamil nadu,Vellore,Akkur N A,631701,13.0165,80.2746,16,6,1500,50
+Matthew Young,51,Female,O+,Diabetes,No,119/78,177,75,1098765432,India,Tamil nadu,Vellore,Akshipakkam,604101,10.806,79.2721,14,3,750,33
+Sophie Turner,52,Male,A+,Asthma,No,136/89,162,66,1098765432,India,Tamil nadu,Thanjavur,Aladikumulai,614615,8.8919,77.9593,14,1,250,14
+Benjamin Campbell,53,Male,B+,Arthritis,No,124/82,175,74,1098765432,India,Tamil nadu,Tirunelveli,Aladiyur,627434,9.8707,78.0948,14,1,250,14
+Emma Turner,54,Female,AB+,No,Pollen,116/77,180,76,1098765432,India,Tamil nadu,Sivaganga,Alagappa Engg College,623004,9.9145,78.1035,14,1,250,14
+Jonathan Rodriguez,55,Male,O-,Hypertension,Pollen,127/84,168,70,1098765432,India,Tamil nadu,Madurai,Alagappa Nagar,625003,9.8888,78.4701,14,1,250,14
+Lucy Young,56,Male,A-,Hyperlipidemia,Pollen,133/88,163,68,1098765432,India,Tamil nadu,Sivaganga,Alagappapuram H O,623003,11.675,78.1356,14,1,250,14
+Joshua Turner,57,Female,B-,Anemia,Shellfish,120/79,176,72,1098765432,India,Tamil nadu,Salem,Alagapuram,636004,9.9268,78.1088,14,1,250,14
+Aria Campbell,58,Male,AB-,No,No,138/91,170,77,1098765432,India,Tamil nadu,Madurai,Alagarkoil,625301,13.1551,79.9796,17,7,1750,58
+James Turner,59,Male,O+,No,Cat dander,122/80,181,80,1098765432,India,Tamil nadu,Tiruvallur,Alagesa Nagar,603001,8.7055,77.7333,14,3,750,35
+Layla Rodriguez,60,Male,A+,Diabetes,No,130/86,166,70,1098765432,India,Tamil nadu,Tirunelveli,Alagesapuram,628002,9.4469,77.7879,14,3,750,35
+John Young,18,Female,B+,Hypertension,Penicillin,118/78,172,75,1098765432,India,Tamil nadu,Virudhunagar,Alagianallur,626056,8.0395,77.3421,16,7,1750,64
+Mia Turner,19,Male,AB+,Asthma,No,135/89,159,64,1098765432,India,Tamil nadu,Kanyakumari,Alagimandapuram,629167,10.3471,79.0678,21,2,500,21
+William Rodriguez,21,Male,O-,Arthritis,Pollen,123/81,170,73,1098765432,India,Tamil nadu,Thanjavur,Alakudi,609129,11.1847,78.5746,16,3,750,35
+Ella Campbell,22,Male,A-,Depression,No,131/87,165,71,1098765432,India,Tamil nadu,Thanjavur,Alakudi,613601,12.5682,79.6956,16,1,250,16
+Daniel Turner,23,Female,B-,No,Dogs,119/79,178,78,1098765432,India,Tamil nadu,Vellore,Alampoondi,604151,8.6465,77.9365,16,1,250,16
+Sophie Young,24,Male,AB-,Hypertension,No,136/90,164,70,1098765432,India,Tamil nadu,Tirunelveli,Alancholai,629103,12.9974,80.2006,16,1,250,16
+Benjamin Rodriguez,25,Female,O+,Diabetes,Mold,124/82,174,76,1098765432,India,Tamil nadu,Chennai,Alandur,600016,13.0196,80.186,16,1,250,16
+Emma Campbell,26,Male,A+,No,No,117/77,179,73,1098765432,India,Tamil nadu,Chennai,Alandur North,600032,11.0652,76.9789,16,1,250,16
+Andrew Turner,27,Male,B+,Hyperlipidemia,Pollen,125/83,169,72,1098765432,India,Tamil nadu,Coimbatore,Alandurai,641101,10.0529,78.0798,14,2,500,29
+Mia Young,28,Female,AB+,Anemia,No,137/91,162,67,1098765432,India,Tamil nadu,Dindigul,Alanganallur,625501,9.7607,78.5293,11,4,1000,74
+Christopher Rodriguez,29,Male,O-,No,No,126/84,167,70,1098765432,India,Tamil nadu,Ramanathapuram,Alangankulam,623512,12.5602,78.6745,11,2,500,38
+Lucas Campbell,30,Male,A-,Hypothyroidism,Pollen,118/78,180,74,1098765432,India,Tamil nadu,Vellore,Alangayam,635701,10.3393,78.8631,21,6,1500,48
+Emily Turner,31,Male,B-,Asthma,Grass,134/88,163,68,1098765432,India,Tamil nadu,Pudukottai,Alangudi,622301,9.0659,77.9461,23,2,500,23
+Ava Young,32,Female,AB-,Arthritis,Tree nuts,121/80,177,75,1098765432,India,Tamil nadu,Thanjavur,Alangudi,612801,8.9879,77.8092,23,6,1500,45
+Matthew Turner,33,Male,O+,No,Dust mites,129/86,164,70,1098765432,India,Tamil nadu,Virudhunagar,Alangulam,626144,9.6848,77.7102,14,2,500,35
+Sophie Campbell,34,Male,A+,Hypertension,No,116/76,172,73,1098765432,India,Tamil nadu,Tirunelveli,Alangulam,627851,13.005,80.1123,16,6,1500,81
+Benjamin Turner,35,Male,B+,Diabetes,Mold,133/89,160,65,1098765432,India,Tamil nadu,Tirunelveli,Alantalai,628221,12.1794,78.2122,16,4,1000,58
+Emma Rodriguez,36,Female,AB+,No,Pollen,120/79,175,71,1098765432,India,Tamil nadu,Vellore,Alapakkam,608801,12.4494,78.1621,16,5,1250,71
+Jonathan Turner,37,Male,O-,Hyperlipidemia,Peanuts,138/91,168,76,1098765432,India,Tamil nadu,Dharmapuri,Alappatti,635122,10.7659,79.0821,21,2,500,26
+Lucy Campbell,38,Male,A-,Asthma,No,127/84,171,75,1098765432,India,Tamil nadu,Dharmapuri,Alasandapuram,635823,10.5323,78.9607,21,3,750,35
+Joshua Young,39,Male,B-,Arthritis,No,115/76,178,72,1098765432,India,Tamil nadu,Thanjavur,Alathampadi,610211,10.9608,76.8785,21,3,750,35
+Aria Turner,40,Female,AB-,Anemia,No,132/87,166,68,1098765432,India,Tamil nadu,Thanjavur,Alathur,614901,10.5405,79.2798,23,8,2000,69
+James Campbell,41,Male,O+,No,Pollen,119/78,179,74,1098765432,India,Tamil nadu,Coimbatore,Aliyarnagar,642101,9.9619,78.101,21,3,750,38
+Layla Rodriguez,42,Female,A+,Hypothyroidism,Pollen,136/90,163,70,1098765432,India,Tamil nadu,Thanjavur,Aliyur,611117,8.3152,77.3221,23,3,750,35
+John Turner,43,Male,B+,No,Pollen,124/82,173,77,1098765432,India,Tamil nadu,Madurai,Alliagaram,626531,8.7454,77.9925,21,3,750,40
+Mia Campbell,44,Male,AB+,Diabetes,Shellfish,117/77,181,75,1098765432,India,Tamil nadu,Kanyakumari,Aloor,629801,8.8195,77.9705,23,2,500,28
+William Rodriguez,45,Female,O-,No,No,135/89,165,69,1098765432,India,Tamil nadu,Tirunelveli,Alwar Kurichi,627412,13.0872,80.2095,21,1,250,21
+Ella Turner,46,Male,A-,No,No,122/81,176,74,1098765432,India,Tamil nadu,Tirunelveli,Alwar Tinunagari,628612,10.3727,77.8576,21,1,250,21
+Daniel Campbell,47,Male,B-,Hypertension,No,130/86,162,68,1098765432,India,Tamil nadu,Chennai,Alwar Tirunagar,600087,10.9044,76.8082,25,6,1500,50
+Sophie Rodriguez,48,Male,AB-,Hyperlipidemia,Penicillin,118/78,173,70,1098765432,India,Tamil nadu,Dindigul,Amarapundi,624627,9.8327,78.3465,21,1,250,21
+Benjamin Turner,49,Female,O+,No,No,137/90,167,75,1098765432,India,Tamil nadu,Coimbatore,Amaravathi Nagar,642102,9.4471,77.6743,21,1,250,21
+Emma Young,50,Male,A+,Migraine,Pollen,125/83,170,73,1098765432,India,Tamil nadu,Sivaganga,Amaravathi Pudur,623301,10.4845,79.3982,23,3,750,39
+Andrew Rodriguez,51,Male,B+,Depression,No,116/76,180,71,1098765432,India,Tamil nadu,Virudhunagar,Amathur,626005,9.9726,78.1951,21,2,500,33
+Mia Turner,52,Male,AB+,No,Dogs,134/88,164,68,1098765432,India,Tamil nadu,Thanjavur,Ambagarathur,609601,9.4587,77.7796,14,3,750,79
+Christopher Campbell,53,Female,O-,Anxiety,No,121/80,178,75,1098765432,India,Tamil nadu,Madurai,Ambalakaranpatti,625123,8.6709,77.862,23,1,250,23
+Lucas Rodriguez,54,Male,A-,Hypertension,Mold,129/85,166,72,1098765432,India,Tamil nadu,Virudhunagar,Ambalapuli Bazaar,626117,10.382,78.8229,23,1,250,23
+Emily Turner,55,Male,B-,No,No,137/91,161,70,1098765432,India,Tamil nadu,Tirunelveli,Ambalavanapuram,627425,12.6672,78.824,23,1,250,23
+Ava Turner,56,Male,AB-,Diabetes,Pollen,126/84,168,74,1098765432,India,Tamil nadu,Pudukottai,Ambalpuram,622001,11.2755,78.6357,23,1,250,23
+Matthew Campbell,57,Female,O+,Asthma,No,119/79,174,75,1098765432,India,Tamil nadu,Vellore,Ambalur,635801,10.7615,77.0991,23,1,250,23
+Sophie Young,58,Male,A+,Arthritis,No,132/87,175,77,1098765432,India,Tamil nadu,Tiruchirappalli,Ambapur,621701,8.7139,77.4607,23,1,250,23
+Benjamin Turner,59,Female,B+,No,Pollen,123/80,176,72,1098765432,India,Tamil nadu,Coimbatore,Ambarampalayam,642103,8.7139,77.4607,23,1,250,23
+Emma Rodriguez,60,Male,AB+,Hypertension,Grass,130/85,160,65,1098765432,India,Tamil nadu,Tirunelveli,Ambasamudram,627401,8.7139,77.4607,23,4,1000,52
+Jonathan Young,21,Male,O-,Hyperlipidemia,Tree nuts,110/70,180,80,1098765432,India,Tamil nadu,Tirunelveli,Ambasamudram East,627401,10.4289,77.6093,23,1,250,23
+Lucy Turner,22,Female,A-,Anemia,Dust mites,140/90,165,55,1098765432,India,Tamil nadu,Tirunelveli,Ambasamudram H O,627401,10.4808,77.6826,23,7,1750,88
+Joshua Rodriguez,23,Male,B-,No,No,125/82,170,75,1098765432,India,Tamil nadu,Dindigul,Ambathurai,624311,13.113,80.1645,16,3,750,86
+Aria Turner,24,Male,AB-,No,No,115/75,172,68,1098765432,India,Tamil nadu,Dindigul,Ambathurai R S,624309,13.1125,80.1546,23,2,500,38
+James Young,25,Male,O+,No,No,135/88,168,72,1098765432,India,Tamil nadu,Chennai,Ambattur Bazaar,600053,13.0973,80.1529,21,2,500,52
+Layla Campbell,26,Female,A+,No,No,122/81,163,69,1098765432,India,Tamil nadu,Chennai,Ambattur H O,600053,13.113,80.1645,23,3,750,62
+John Rodriguez,27,Male,B+,No,No,128/84,176,76,1098765432,India,Tamil nadu,Chennai,Ambattur Industrial Estat,600058,13.0973,80.1529,39,1,250,39
+Mia Young,28,Male,AB+,No,No,118/79,171,74,1098765432,India,Tamil nadu,Chennai,Ambattur West,600053,13.113,80.1645,72,1,250,72
+ramesh,29,Male,A+,No,No,120/80,189,70,8709563423,India,tamil Nadu,chennai,kolathur,600099,13.1241127,80.2046276,72,1,250,72
+Srilekha S,20,Female,A+,No,No,120/80,189,70,9962658588,India,Tamil Nadu,Chennai,Kolathur,600099,13.1241127,80.2046276,72,1,250,72
+Priyadharshini,21,Female,B+,No,No,120/80,170,65,6740943322,india,tamil nadu,tiruvallur,tambaram,600046,12.9245279,80.1150525,4,1,1200,1
+Deepa,18,Female,A+,No,No,120/80,163,45,9867543672,India,Tamil nadu,chennai,retteri,600089,13.1412385,80.21205362,0,0,0,0
+Deepa,18,Female,A+,,none,120/80,163,45,9867543672,India,Tamil nadu,chennai,retteri,600089,13.1522487,80.21363150892032,0,0,0,0
+Adhi,22,Female,O+,No,No,120/80,163,55,9031267332,India,Tamil Nadu,Chennai,Kodungaiyur,600089,13.1327533,80.2444773,0,0,0,0
+Bindu,43,Female,O+,Diabetes,no,120/80,175,70,9360130278,India,Tamil nadu,chennai,kolathur,600099,13.1241127,80.2046276,0,0,0,0
+Priya,20,Female,AB+,No,no,120/80,178,65,9978788990,India,Tamil NAdu,chennai,retteri,600089,13.1412385,80.21205362343252,0,0,0,0
+Sekar,50,Male,A+,None,None,120/80,178,68,9087222113,India,Tamil Nadu,Chennai,Kolathur,600099,13.1241127,80.2046276,0,0,0,0
